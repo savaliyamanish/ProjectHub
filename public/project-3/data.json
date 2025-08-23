@@ -1,0 +1,12 @@
+{
+  "id": "project-3",
+  "name": "Drawing Overload",
+  "htmlDescription": "<div class=\"paragraph\">\n        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.\n        <br/>Image by <a target=\"_blank\" href=\"https://www.pexels.com/fr-fr/@miphotography\">Miesha Maiden</a>.\n    </div>\n    <div class=\"paragraph center\">\n        <iframe class=\"youtube\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ\" frameborder=\"0\" allowfullscreen></iframe>\n    </div>\n\n    <div class=\"paragraph\">\n        Main features :\n        <ul>\n        <li>Some stuff</li>\n        <li>Some great stuff</li>\n        <li>More awesome stuff</li>\n        <li>And then some</li>\n        </ul>\n    </div>\n\n    <div class=\"paragraph\">\n        <div class=\"notice\">\n        Playable in the browser (WebGL) on <a href=\"https://some.where/nice\" target=\"_blank\">itch.io</a>.\n        Source code is available on <a href=\"https://github.com/yourself\" target=\"_blank\">GitHub</a>.\n        </div>\n    </div>\n\n    <div class=\"paragraph center\">\n        <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drawing Overload Screenshot\" />\n        <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drawing Overload Screenshot\" />\n        <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drawing Overload Screenshot\" />\n        <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drawing Overload Screenshot\" />\n    </div>",
+  "iconUrl": "/project-3/icon.png",
+  "isWide": false,
+  "isHigh": false,
+  "accentColor": "#383838",
+  "preloadImages": [
+    "icon.png"
+  ]
+}

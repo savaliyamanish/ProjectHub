@@ -1,0 +1,9 @@
+{
+  "id": "project-7",
+  "name": "Drew Blood",
+  "htmlDescription": "<div class=\"paragraph\">\n                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.\n                <br/>Image by <a target=\"_blank\" href=\"https://www.pexels.com/fr-fr/@karolina-grabowska\">Karolina Grabowska</a>.\n            </div>\n\n            <div class=\"paragraph\">\n              Main features :\n              <ul>\n              <li>Some stuff</li>\n              <li>Some great stuff</li>\n              <li>More awesome stuff</li>\n              <li>And then some</li>\n              </ul>\n          </div>\n\n            <div class=\"paragraph\">\n              <div class=\"notice\">\n                You can download and try the app for free or purchase it directly from <a href=\"http://www.somewbsite.com/\" target=\"_blank\">Some website</a>\n              </div>\n            </div>\n\n            <div class=\"paragraph center\">\n                <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drew Blood Screenshot\" />\n                <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drew Blood Screenshot\" />\n                <img class=\"pc-screenshot\" src=\"https://fakeimg.pl/534x300/\" alt=\"Drew Blood Screenshot\" /> \n            </div>",
+  "iconUrl": "project-7/icon.png",
+  "isWide": false,
+  "isHigh": false,
+  "accentColor": "#1ca1e2"
+}
