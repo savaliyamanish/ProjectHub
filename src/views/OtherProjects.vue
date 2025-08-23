@@ -24,7 +24,7 @@ export default defineComponent({
     };
   },
   created: async function () {
-    const response = await fetch("/projectList.json");
+    const response = await fetch(`${import.meta.env.BASE_URL}projectList.json`);
     const projectList = await response.json();
     const baseUrl = projectList.baseUrl;
     const projectPromises = projectList.otherProjects.map(async (id: string) => {

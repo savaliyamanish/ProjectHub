@@ -26,7 +26,7 @@ export default defineComponent({
 });
 
 // Preload heavy images or gifs that are used in other pages
-fetch('/projectList.json')
+fetch(`${import.meta.env.BASE_URL}projectList.json`)
   .then(response => response.json())
   .then(async projectList => {
     const baseUrl = projectList.baseUrl;
