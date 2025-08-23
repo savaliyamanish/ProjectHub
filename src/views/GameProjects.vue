@@ -32,8 +32,11 @@ export default defineComponent({
     const response = await fetch("/projectList.json");
     const projectList = await response.json();
     const baseUrl = projectList.baseUrl;
+    const localBaseUrl = "/";
+    const currentBaseUrl = import.meta.env.MODE === "production" ? baseUrl : localBaseUrl;
+
     const projectPromises = projectList.gameProjects.map(async (id: string) => {
-      const projectResponse = await fetch(`${baseUrl}${id}/data.json`);
+      const projectResponse = await fetch(`${currentBaseUrl}${id}/data.json`);
       return projectResponse.json();
     });
     this.projects = await Promise.all(projectPromises);
