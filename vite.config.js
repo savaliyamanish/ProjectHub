@@ -1,4 +1,4 @@
-import { defineConfig, loadEnv } from 'vite'
+ import { defineConfig, loadEnv } from 'vite'
 import vue from '@vitejs/plugin-vue';
 import { fileURLToPath, URL } from "url";
 
@@ -11,6 +11,7 @@ export default ({mode}) => {
 
   return defineConfig({
     plugins: [vue()],
+    base:"/ProjectHub",
     resolve: {
       alias: [
         // thanks to https://stackoverflow.com/a/67676242/22296059 :)
