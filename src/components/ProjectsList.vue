@@ -22,6 +22,7 @@
       :visible="showPopup"
       :title="popupTitle"
       :htmlContent="popupContent"
+      :baseUrl="baseUrl"
       :color="popupColor"
     />
   </div>
@@ -45,7 +46,8 @@ export default defineComponent({
       showPopup: false,
       popupTitle: "",
       popupColor: "",
-      popupContent: ""
+      popupContent: "",
+      baseUrl:"",
     };
   },
   methods: {
@@ -56,6 +58,7 @@ export default defineComponent({
       this.popupTitle = item.name;
       this.popupColor = item.accentColor;
       this.popupContent = item.htmlDescription;
+      this.baseUrl = item.baseUrl;
       this.showPopup = true;
       window.scrollTo(0,0);
     },
