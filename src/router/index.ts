@@ -14,8 +14,8 @@ export function createRouter(){
     routes: [
       {
         path: '/',
-        name: 'Root',
-        component: AboutView
+        name: 'ProjectHub',
+        component: GameView
       },
       {
         path: '/resume',

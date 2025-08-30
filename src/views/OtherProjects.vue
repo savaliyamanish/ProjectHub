@@ -1,13 +1,15 @@
 <template>
   <div>
-    <h1>Other stuff</h1>
+    <h1>Other Projects</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other stuff I've made or heavily contributed to, which are totally different than the stuff from earlier.
+      Here are some web and mobile apps our team has created or contributed to.
     </div>
-    <ProjectsList v-bind:projects="projects" />
+
+    <ProjectsList :projects="projects" />
   </div>
 </template>
+
 
 <script lang="ts">
 import { defineComponent } from "vue";
