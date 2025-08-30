@@ -19,8 +19,8 @@ export default defineComponent({
     ProjectsList,
   },
   data: function () {
-    return {
-      projects: [] as Array<{ id: string; name: string; htmlDescription: string; iconUrl: string; isWide: boolean; isHigh: boolean; accentColor: string }>,
+     return {
+      projects: [] as Array<{ id: string; baseUrl:string; name: string; htmlDescription: string; iconUrl: string; isWide: boolean; isHigh: boolean; accentColor: string }>,
     };
   },
   created: async function () {
@@ -29,7 +29,9 @@ export default defineComponent({
     const baseUrl = projectList.baseUrl;
     const projectPromises = projectList.otherProjects.map(async (id: string) => {
       const projectResponse = await fetch(`${baseUrl}${id}/data.json`);
-      return projectResponse.json();
+      const projectData = await projectResponse.json();
+      projectData.baseUrl = `${baseUrl}${id}/`;
+      return projectData;
     });
     this.projects = await Promise.all(projectPromises);
   },

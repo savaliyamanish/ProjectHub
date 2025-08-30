@@ -1,13 +1,12 @@
 <template>
   <div>
     <div class="projects-list">
-      <template v-for="project in projects" :key="project.id"
-     :project="project">
+      <template v-for="project in projects" :key="project.id">
         <div
             @click="showDetails(project)"
             class="project-item"
             :class="{ 'wide': project.isWide, 'high': project.isHigh }">
-          <div class="project-item-image" :style="{ 'background-image': 'url(' + project.iconUrl + ')' }">
+          <div class="project-item-image" :style="{ 'background-image': 'url(' + project.baseUrl+project.iconUrl + ')' }">
           </div>
           <div class="title-bar" :style="{ 'background-color': project.accentColor + 'DD' }">
               <div class="title-text">
