@@ -2,7 +2,7 @@
   "id": "project-9",
   "name": "Nikolable",
   "htmlDescription": "<div class=\"paragraph\">\n                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.\n                <br/>Image by <a target=\"_blank\" href=\"https://www.pexels.com/fr-fr/@goumbik\">Lukas</a>.\n            </div>\n\n            <div class=\"paragraph\">\n        Main features :\n        <ul>\n        <li>Some stuff</li>\n        <li>Some great stuff</li>\n        <li>More awesome stuff</li>\n        <li>And then some</li>\n        </ul>\n    </div>\n\n            <div class=\"paragraph\">\n              <div class=\"notice\">\n                Source code available on <a href=\"https://github.com/yourself\" target=\"_blank\">GitHub</a>.\n              </div>\n            </div>",
-  "iconUrl": "project-9/icon.png",
+  "iconUrl": "icon.png",
   "isWide": false,
   "isHigh": false,
   "accentColor": "#000000"
