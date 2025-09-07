@@ -22,7 +22,7 @@ export default defineComponent({
   },
   data: function () {
      return {
-      projects: [] as Array<{ id: string; baseUrl:string; name: string; htmlDescription: string; iconUrl: string; isWide: boolean; isHigh: boolean; accentColor: string }>,
+      projects: [] as Array<{ id: string; baseUrl:string; name: string; iconUrl: string; isWide: boolean; isHigh: boolean; accentColor: string; shortDescription?: string; fullDescription?: string; links?: Array<{name: string; url: string}>; videos?: string[]; images?: string[]; preloadImages?: string[] }>,
     };
   },
   created: async function () {
