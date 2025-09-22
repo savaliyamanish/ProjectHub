@@ -1,9 +1,9 @@
 {
   "id": "1_narqubis",
-  "name": "NARQUBIS - A Shooter Gun Game",
+  "name": "NARQUBIS Demo",
   "iconUrl": "icon.png",
-  "isWide": true,
-  "isHigh": false,
+  "width": 2,
+  "height": 1,
   "accentColor": "#23bd69",
   "preloadImages": [
     "icon.png"
