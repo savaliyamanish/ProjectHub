@@ -1,23 +1,14 @@
 {
-  "baseUrl": "https://savaliyamanish.github.io/ProjectHub/",
+  "baseUrl": "/",
   "gameProjects": [
-    {
-      "id": "1_narqubis",
-      "override": {}
-    },
-    {
-      "id": "1_narqubis",
-      "baseUrl": "https://savaliyamanish.github.io/ProjectHub/",
-      "override": {}
-    },
-    {
-      "id": "1_narqubis",
-      "override": {
-        "width": 1,
-        "height": 1,
-        "shortDescription": "Console edition with enhanced graphics"
-      }
-    }
+    { "id": "2_uno",  "override": {}  },
+    { "id": "3_knifehit",  "override": {}  },
+    { "id": "4_kidgame",  "override": {}  },
+    { "id": "5_sudoku",  "override": {}  },
+    { "id": "6_matchpuzzle",  "override": {}  },
+    { "id": "7_pipeout",  "override": {}  },
+    { "id": "8_panchout",  "override": {}  },
+    { "id": "9_music",  "override": {}  }
   ],
   "otherProjects": [
     {

@@ -1,0 +1,34 @@
+{
+  "id": "uno_space",
+  "name": "Uno Space",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#1e88e5",
+  "preloadImages": [],
+  "shortDescription": "A social UNO-style card game set in a cosmic theme with multiplayer gameplay (AI bots) and engaging mechanics.",
+  "fullDescription": "Uno Space is an engaging card game inspired by the legendary UNO format, set against a space-themed backdrop. Players match cards by number or color, use special action cards, and compete in fun and strategic rounds.\n\nKey Features:\n- Multiplayer mode with AI bots simulating real opponents\n- Single player / AI mode\n- Color & number matching mechanics with special cards (Skip, Reverse, Draw Two, Wild)\n- In-game shop & purchases\n- Ad integration (banner, interstitial)\n- Clean UI and smooth animations\n- Easy to reskin / customize\n\nUno Space gives players a familiar yet fresh twist to classic UNO, wrapped in a cosmic aesthetic.",
+  "links": [
+    {
+      "name": "Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.vayuputra.UnoSpace"
+    },
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1aFJMELWRNR3AXjaMKPTS-U9H-q3jTtCL/view?usp=drive_link"
+    },
+    {
+      "name": "Know M",
+      "url": "https://www.sellmyapp.com/downloads/uno-friends-unity/"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=yEcOu5WbW_4"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
+  ]
+}

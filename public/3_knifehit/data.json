@@ -1,0 +1,30 @@
+{
+  "id": "knife_hit",
+  "name": "Knife Hit",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#39B54A",
+  "preloadImages": [ ],
+  "shortDescription": "A fast-paced arcade game where players throw knives to shatter targets and test their timing.",
+  "fullDescription": "Knife Hit is an engaging arcade-style game that challenges players to throw knives into rotating logs without hitting existing blades. Each level brings new patterns, speed variations, and exciting boss targets to break. The simple one-tap control makes it fun and addictive for all ages.\n\nKey Features:\n- Smooth and responsive controls\n- Increasing challenge and dynamic speed\n- Variety of knife styles and visual effects\n- Clean visuals with an appealing arcade feel\n- Endless gameplay for quick fun or long sessions\n\nKnife Hit delivers that satisfying mix of skill, timing, and precision — perfect for players who love quick reflex challenges.",
+  "links": [
+    {
+      "name": "SellMyApp Listing",
+      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+    },
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
+  ]
+}
