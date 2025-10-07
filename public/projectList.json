@@ -1,14 +1,62 @@
 {
   "baseUrl": "/",
   "gameProjects": [
-    { "id": "2_uno",  "override": {}  },
-    { "id": "3_knifehit",  "override": {}  },
-    { "id": "4_kidgame",  "override": {}  },
-    { "id": "5_sudoku",  "override": {}  },
-    { "id": "6_matchpuzzle",  "override": {}  },
-    { "id": "7_pipeout",  "override": {}  },
-    { "id": "8_panchout",  "override": {}  },
-    { "id": "9_music",  "override": {}  }
+    {
+      "id": "2_uno",
+      "override": {}
+    },
+    {
+      "id": "3_knifehit",
+      "override": {}
+    },
+    {
+      "id": "4_kidgame",
+      "override": {}
+    },
+    {
+      "id": "5_sudoku",
+      "override": {}
+    },
+    {
+      "id": "6_matchpuzzle",
+      "override": {}
+    },
+    {
+      "id": "7_pipeout",
+      "override": {}
+    },
+    {
+      "id": "8_panchout",
+      "override": {}
+    },
+    {
+      "id": "9_music",
+      "override": {}
+    },
+    {
+      "id": "10_bubquest",
+      "override": {}
+    },
+    {
+      "id": "11_carbump",
+      "override": {}
+    },
+    {
+      "id": "12_coloraize",
+      "override": {}
+    },
+    {
+      "id": "13_cribbagesolitaire",
+      "override": {}
+    },
+    {
+      "id": "14_deadflap",
+      "override": {}
+    },
+    {
+      "id": "15_ginrummy",
+      "override": {}
+    }
   ],
   "otherProjects": [
     {

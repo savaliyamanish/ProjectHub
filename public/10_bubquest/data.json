@@ -1,0 +1,28 @@
+{
+  "id": "bubquest",
+  "name": "BubQuest",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#0099ff",
+  "preloadImages": [],
+  "shortDescription": "A vibrant and colorful bubble popping/shooter game with multiple levels, power-ups, and a competitive 'Hall of Fame'.",
+  "fullDescription": "BubQuest is an exciting bubble shooter game where players burst colorful bubbles to achieve high scores and earn prizes. The core gameplay involves matching colors and using power-ups, like the bomb, to clear the screen (as seen in the gameplay screenshot). The main menu offers options for a full game experience, including 'Play', 'Prizes', 'Hall of Fame', a 'Bub Shop', and a 'How To Play' guide.\n\nKey Features:\n- Classic bubble-popping/shooter gameplay\n- Bomb power-ups for clearing large groups of bubbles\n- In-game 'Prizes' and 'Bub Shop'\n- 'Hall of Fame' for high-score tracking\n- Sound control and user sign-in/guest features",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1HYBB0JmIeuF8HUX5Ks4tMdwCAesl_LhJ/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=LvTdmpS4loE"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg"
+  ]
+}

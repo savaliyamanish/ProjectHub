@@ -1,0 +1,29 @@
+{
+  "id": "cribbage_solitaire",
+  "name": "Cribbage Solitaire",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#a00000",
+  "preloadImages": [],
+  "shortDescription": "A single-player digital adaptation of the classic card game Cribbage, featuring score tracking and board customization.",
+  "fullDescription": "Cribbage Solitaire is a mobile adaptation of the traditional card game, where the player scores points by forming combinations with their cards (e.g., 15' 2) and pegs them on a virtual Cribbage board [screenshot7.jpg]. The main menu offers comprehensive features including 'Achievements,' a 'Daily Challenge,' 'Statistics,' and a 'Tutorial' [screenshot1.jpg].\n\nKey Features:\n- Classic Cribbage rules adapted for single-player ('Solitaire') gameplay.\n- Track current, daily, and highest scores.\n- Extensive customization for 'Cards,' 'Boards' (Rare, Legendary, Epic), and 'Backgrounds' using in-game coins [screenshot12.jpg].\n- Rewards system and in-app purchase options (e.g., 'Remove Ads').",
+  "links": [],
+  "videos": [
+    "https://www.youtube.com/watch?v=0PesuaRC7lE"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg",
+    "screenshot8.jpg",
+    "screenshot9.jpg",
+    "screenshot10.jpg",
+    "screenshot11.jpg",
+    "screenshot12.jpg"
+  ]
+}

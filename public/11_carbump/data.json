@@ -1,0 +1,28 @@
+{
+  "id": "car_bump_3d",
+  "name": "Car Bump 3D",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#00ffff",
+  "preloadImages": [],
+  "shortDescription": "A fun 3D casual game where you drive a bumper-equipped car to clear obstacles and reach the finish line.",
+  "fullDescription": "Car Bump 3D is an engaging 3D casual game with a simple premise: control a car with a powerful bumper to clear a path through chaotic levels. Players must push and scatter various obstacles—such as balls, blocks, and sticks—off the track to successfully navigate the course and race toward the finish line, as indicated by the progress bar at the top of the screen. The game features a colorful, low-poly aesthetic and a level-based structure, focusing on satisfying physics and obstacle clearing action.\n\nKey Features:\n- Simple, one-touch driving and bumping mechanics\n- Satisfying physics-based obstacle clearing\n- Level progression with a defined start and finish goal\n- Vibrant, low-poly 3D graphics",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1jjLnaJRQN3Q4NhTi2xvUwUhtaiipXsII/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=AfXfA1yR49A"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "deadflap",
+  "name": "Dead Flap",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#ff66cc",
+  "preloadImages": [],
+  "shortDescription": "A spooky, 'flappy' style arcade game where you control an undead parrot through challenging, coin-collecting obstacle courses.",
+  "fullDescription": "Dead Flap is a challenging arcade game with a unique, spooky pirate theme, starring a zombie parrot. The core gameplay follows the classic 'flapping' mechanic where players must tap the screen to keep the parrot airborne and guide it through narrow gaps between various obstacles (like twisted tree roots).\n\nKey Features:\n- Classic one-touch 'flapping' arcade gameplay.\n- Unique undead pirate theme and character design.\n- Multiple difficulty settings: 'Easy Peezy!', 'Good Luck!', and 'Harrrrr-d Matey!'\n- Collectible in-game coins for scoring or rewards.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1Ug800EvvfrBygxIOYeLHNogjo6PeY6Fx/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=wZ827BpZusw"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
+  ]
+}
