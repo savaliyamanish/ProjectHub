@@ -1,0 +1,25 @@
+{
+  "id": "modulars_for_you_kitchen",
+  "name": "Modulars For You Kitchen",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#8d6e63",
+  "preloadImages": [],
+  "shortDescription": "A specialized online kitchen planning tool allowing users to design, edit, and view modular kitchen layouts in 2D and 3D.",
+  "fullDescription": "Modulars For You is a kitchen design and planning tool that enables users to create their dream modular kitchen design effortlessly. The application offers various features for design customization, including creating new designs, loading existing designs via a shareable code, and utilizing pre-made templates.\n\nKey Features:\n- **2D/3D Editor:** Provides a canvas for drawing the room layout, setting dimensions, and viewing the design in both 2D and 3D.\n- **Design Elements:** Tools for creating the room, adding design elements, and placing 'Furniture & Appliances'.\n- **Cost Tracking:** Shows an estimated cost/price calculation in real-time ($12033.00 is visible).\n- **Save/Share:** Designs can be saved and shared using unique codes (e.g., 'zucYN3eTainJ65gz').",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": ""
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=_2tOis8fJQw"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg"
+  ]
+}

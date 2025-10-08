@@ -1,0 +1,27 @@
+{
+  "id": "kathmandu_casino_card_game",
+  "name": "KATHMANDU CASINO",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#002fa7",
+  "preloadImages": [],
+  "shortDescription": "A casino-style card game, likely a variation of 3-card poker or Teen Patti, featuring multiple modes and in-game chip purchases.",
+  "fullDescription": "KATHMANDU CASINO is a multi-game card application centered around a competitive 3-card game (similar to Teen Patti or 3 Card Poker, as seen by the Hand Order: 3 of a Kind, Run, Flush). The game operates on a chip/token currency system, offering a welcome bonus of $15,240 tokens and multiple purchase options for chips. Players compete at virtual tables with a shared pot. The main screen shows 'PLAY NOW' and two modes advertised as 'COMING SOON': 'JHAAP' and 'MURDER', suggesting an expanding card game library.\n\nKey Features:\n- Competitive card gameplay with standard hand rankings (3 of a Kind, Flush, Run).\n- In-game currency ('Tokens' or 'Chips') for betting and purchasing.\n- Multi-player table layout with betting functionality.\n- Future game modes 'JHAAP' and 'MURDER' are planned.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1FAg9NZI4kbvA5RW04JR8LIhIDTlDYP60/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=mbEzcRIGEIQ"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg"
+  ]
+}

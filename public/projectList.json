@@ -56,6 +56,50 @@
     {
       "id": "15_ginrummy",
       "override": {}
+    },
+    {
+      "id": "16_kachufull",
+      "override": {}
+    },
+    {
+      "id": "17_kathmandu",
+      "override": {}
+    },
+    {
+      "id": "18_LoadedRunner",
+      "override": {}
+    },
+    {
+      "id": "19_Match3",
+      "override": {}
+    },
+    {
+      "id": "20_MatchMaster",
+      "override": {}
+    },
+    {
+      "id": "21_ModularsForYouKitchen",
+      "override": {}
+    },
+    {
+      "id": "22_SlackDay",
+      "override": {}
+    },
+    {
+      "id": "23_SpaceExit",
+      "override": {}
+    },
+    {
+      "id": "24_SpaceFarm",
+      "override": {}
+    },
+    {
+      "id": "25_Striker",
+      "override": {}
+    },
+    {
+      "id": "26_TeenPatti",
+      "override": {}
     }
   ],
   "otherProjects": [

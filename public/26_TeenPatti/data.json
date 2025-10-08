@@ -1,0 +1,33 @@
+{
+  "id": "teenpatti_roulette_casino",
+  "name": "Teen Patti & Roulette",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#00aaff",
+  "preloadImages": [],
+  "shortDescription": "A multi-game casino application featuring the popular Indian card game Teen Patti, European Roulette, and other card variations.",
+  "fullDescription": "Teen Patti & Roulette is a comprehensive mobile casino application that combines several popular gambling games in a flashy, high-stakes virtual environment. The core offering is **Teen Patti** (Indian Flush), played on a vibrant table with options like 'Play Blind', 'Max Chaal', and a 'Pot Limit'. The app also includes **European Roulette** with a traditional betting layout and wheel. Other card variations, including a community card poker game, are also available.\n\nKey Features:\n- **Game Variety:** Includes Teen Patti (3 Patti), Roulette, and other card game variations.\n- **Virtual Currency:** Uses chips (denominated in Lac/Cr) and premium Diamonds, purchasable with Indian Rupees (₹).\n- **Monetization & Rewards:** Features a daily 'Spin & Win' wheel, daily login rewards, and options to 'Invite & Earn' free chips.\n- **Competition & Social:** Global and Friends 'LEADERBOARD' for competitive play.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1Y9KZUhW-WVfe9o7yFNVNU4Agq0SuFjHD/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=CwRRyq-_-wY",
+    "https://www.youtube.com/watch?v=Xingmc0pjr8"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg",
+    "screenshot8.jpg",
+    "screenshot9.jpg",
+    "screenshot10.jpg"
+  ]
+}

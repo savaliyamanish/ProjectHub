@@ -1,0 +1,27 @@
+{
+  "id": "space_farm",
+  "name": "Space Farm",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#52d13b",
+  "preloadImages": [],
+  "shortDescription": "A sci-fi farming and life simulation RPG where you cultivate alien plants, fish, and craft items on a distant planet.",
+  "fullDescription": "Space Farm is a simulation and resource management RPG that combines classic farming gameplay with a unique science fiction setting. Players, as the character 'Zach', must manage their health and daily activities across different seasons.\n\nKey Features:\n- **Farming Simulation:** Features core activities like 'Farming' and 'Fishing'.\n- **Crafting System:** Includes crafting functionality, such as using compost to create fertilizer.\n- **Sci-Fi Setting:** The game environment features a personal spaceship, strange alien flora, and futuristic interiors.\n- **Resource Management:** Players manage currency (shown in €) and track their health/energy.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1JVhe9RD8jH27_KPVldRg_QPdzoJ8z3Hr/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=Zn7Fc_cjcqA"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tap_3_type",
+  "name": "Tap 3 Type",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#ffaa00",
+  "preloadImages": [],
+  "shortDescription": "A cute farm-themed block-blasting puzzle game where players tap groups of matching cubes to meet level goals with limited moves.",
+  "fullDescription": "Tap 3 Type is a colorful and casual match-2 (or tap-to-blast) puzzle game set in a bright, outdoor environment, guided by an animated pig mascot. The core mechanic involves tapping clusters of two or more similarly colored cubes (featuring icons like houses, pigs, and sheep) to clear them from the board. Each level presents a specific **GOAL** (e.g., clear 10 red blocks and 10 green blocks) that must be met within a limited number of **MOVES**.\n\nKey Features:\n- Classic block-blasting puzzle gameplay.\n- Limited moves add a strategic challenge to each level.\n- Various powerful boosters/power-ups (Cannon, Firework, Rocket) are available to help clear the board.\n- Star rating system to track level performance.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/18zsBHKO_54tXHmj2sle9mp8UxVnd_as5/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=GJO0o23K6Jk"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
+  ]
+}

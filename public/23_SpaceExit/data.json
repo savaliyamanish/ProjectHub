@@ -1,0 +1,26 @@
+{
+  "id": "space_exit",
+  "name": "Space Exit",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#00ffff",
+  "preloadImages": [],
+  "shortDescription": "A fast-paced, sci-fi endless runner game where a futuristic character runs through a space tunnel collecting coins and diamonds.",
+  "fullDescription": "Space Exit is a 3D endless runner set within a futuristic, neon-lit space tunnel. Players control a character in a sci-fi suit, navigating the tubular environment from a third-person, over-the-shoulder perspective. The primary objective is to achieve a high score and collect two forms of in-game currency: gold Coins and green Diamonds. The gameplay is fast and requires quick reflexes to avoid obstacles and gather currency, with scores and collectibles tracked in real-time.",
+  "links": [
+    {
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1v-xazJW67KKuCNc-Dfl7lTQU45LUCTgE/view?usp=drive_link"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=Zn7Fc_cjcqA"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
+  ]
+}
