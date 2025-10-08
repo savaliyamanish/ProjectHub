@@ -4,18 +4,18 @@
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "A fast-paced arcade game where players throw knives to shatter targets and test their timing.",
-  "fullDescription": "Knife Hit is an engaging arcade-style game that challenges players to throw knives into rotating logs without hitting existing blades. Each level brings new patterns, speed variations, and exciting boss targets to break. The simple one-tap control makes it fun and addictive for all ages.\n\nKey Features:\n- Smooth and responsive controls\n- Increasing challenge and dynamic speed\n- Variety of knife styles and visual effects\n- Clean visuals with an appealing arcade feel\n- Endless gameplay for quick fun or long sessions\n\nKnife Hit delivers that satisfying mix of skill, timing, and precision — perfect for players who love quick reflex challenges.",
+  "accentColor": "#FFB300",
+  "preloadImages": [],
+  "shortDescription": "An addictive, one-tap arcade game where you must precisely throw knives into a rotating log or unique boss target without hitting any existing blades.",
+  "fullDescription": "Knife Hit is an incredibly fun and challenging arcade game that tests your precision and timing. The objective is simple: throw all your available knives into the spinning wooden log or boss target to break it and proceed to the next level. \n\nKey Features:\n- Addictive One-Tap Gameplay: Easy to learn controls—just tap to throw the knife.\n- Challenging Stages: Progress through stages with increasing difficulty. (e.g., 'STAGE 1')\n- Boss Battles: Every few stages, face a unique, moving boss target with obstacles (like 'BOSS : LID') for special challenges and rewards.\n- Collect Apples: Hit the apples attached to the log or boss to earn currency.\n- Unlock New Blades: Use your collected apples in the shop to unlock a large variety of over 20 unique knives and swords. (Screenshots show a selection screen).\n- High Score System: Aim for the highest stage count to prove your throwing skills.",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
     },
     {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "Know More",
+      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
     }
   ],
   "videos": [

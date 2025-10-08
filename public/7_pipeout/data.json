@@ -1,30 +1,33 @@
 {
-  "id": "id",
-  "name": "Game Demo",
+  "id": "pipe_out",
+  "name": "Pipe Out",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "shortDescription",
-  "fullDescription": "fullDescription",
+  "accentColor": "#1E88E5",
+  "preloadImages": [],
+  "shortDescription": "A classic plumbing puzzle game where you rotate pipe pieces to create a continuous fluid path. Features four difficulty levels, a daily spin wheel for rewards, and detailed status tracking.",
+  "fullDescription": "Pipe Out is an engaging and colorful pipe connection puzzle game. Your main objective is to establish a continuous pipeline by tapping and rotating the given pipe segments on the grid, allowing the liquid to flow from the start point to the end point.\n\nKey Features:\n\n- Multiple Difficulty Modes: Challenge yourself across four distinct difficulty categories: Easy, Medium, Advance, and Hard. Each difficulty typically contains 50 levels, offering hundreds of puzzles to solve.\n- Game Status Tracking: Keep track of your mastery with a 'Game Status' screen that monitors 'Level Completed' and 'Average Time' for each difficulty level.\n- Daily Rewards: Spin the 'Daily Wheel' to earn valuable coins and in-game currency to help your progression.\n- Helpful Hints: Use coins to acquire and utilize hints when you get stuck on a tricky level.\n- Simple Mechanics: Features intuitive one-tap controls for rotating pipe pieces, making it easy for players of all ages to pick up.\n- Customizable Settings: Control in-game sound and music through the settings menu.",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1h6rZNUS074lpz1OCbS6jYJzu34IB5NkT/view?usp=drive_link"
     },
     {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "Know More",
+      "url": "https://www.sellmyapp.com/downloads/plumber-ultimate/"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+    "https://www.youtube.com/watch?v=z64gHDIerWk"
   ],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
-    "screenshot4.jpg"
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg"
   ]
 }

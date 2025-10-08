@@ -1,25 +1,29 @@
 {
-  "id": "id",
-  "name": "Game Demo",
+  "id": "sudoku_puzzle",
+  "name": "Sudoku",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "shortDescription",
-  "fullDescription": "fullDescription",
+  "accentColor": "#512DA8",
+  "preloadImages": [],
+  "shortDescription": "The classic number placement puzzle game on your phone, featuring four difficulty levels (Easy to Expert) and essential solving tools like hints and notes.",
+  "fullDescription": "Sudoku is the ultimate brain training puzzle experience, bringing the classic 9x9 grid challenge to your mobile device. The goal is to fill the grid so that every row, every column, and every 3x3 block contains the numbers 1 through 9.\n\nKey Features:\n\n- Multiple Difficulty Levels: Choose your challenge from four expertly crafted levels: Easy, Medium, Hard, and Expert.\n- Essential Solver Tools: Utilize key functions to assist your play, including:\n  - Pencil/Notes Mode: Jot down potential numbers in cells to help you track possibilities.\n  - Undo: Quickly revert mistakes.\n  - Erase: Clear a cell's entry easily.\n  - Hint System: Get a subtle push in the right direction when you're stuck (limited hints available).\n- Error Checking: Errors are visually highlighted, allowing you to quickly spot and correct wrong number placements (as seen in screenshots).\n- Time Tracking: Monitor your solve time to improve your speed and challenge your personal bests.\n- Simple & Clean UI: A minimalistic design focused on a distraction-free puzzle experience.",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+      "name": "Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.thevayuputra.sudokufreepuzzlegame"
     },
     {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1xpe-Z05ZVOKECM7q2E_BQGwspFXNenTL/view?usp=drive_link"
+    },
+    {
+      "name": "Know More",
+      "url": "https://www.sellmyapp.com/downloads/sudoku-pro/"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+    "https://www.youtube.com/watch?v=9imXe8OO8Ck"
   ],
   "images": [
     "screenshot1.jpg",

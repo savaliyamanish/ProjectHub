@@ -1,30 +1,29 @@
 {
-  "id": "id",
-  "name": "Game Demo",
+  "id": "panch_out",
+  "name": "Panch Out",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "shortDescription",
-  "fullDescription": "fullDescription",
+  "accentColor": "#00BFFF",
+  "preloadImages": [],
+  "shortDescription": "A digital dice-based baseball board game that simulates batting and pitching outcomes, featuring Online, Offline (vs CPU), and Local Multiplayer modes.",
+  "fullDescription": "Panch Out is an exciting digital version of a dice baseball board game, blending strategy and chance. \nThe gameplay revolves around rolling dice to determine all actions on the field, offering familiar baseball outcomes like strikes, outs, hits, and home runs.\n\nGame Modes:\nPlay Online, Offline (vs CPU), or with Friends in Local Multiplayer.\n\nGame Length Options:\nChoose between Quick (3 innings), Normal (6 innings), or Classic (9 innings) matches.\n\nDice Mechanics:\nEach roll determines outcomes such as Hit, Double (2B), Triple (3B), Home Run, Foul, Out, Double Play, or Strike.\n\nCustomization:\nSelect avatars, set usernames, and personalize your player profile.\n\nSocial Play:\nLog in as a Guest or connect with Facebook for added features.\n\nGame Tracking:\nThe interface displays a full baseball diamond and keeps track of innings, strikes, outs, and runs for both players.",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
-    },
-    {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1WUDR5bM0fHswddHj-FF9Z1IVaEejHDyY/view?usp=drive_link"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+    "https://www.youtube.com/watch?v=wLlWgOnFZFk"
   ],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
-    "screenshot4.jpg"
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg"
   ]
 }

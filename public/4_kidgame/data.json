@@ -1,25 +1,25 @@
 {
-  "id": "id",
-  "name": "Game Demo",
+  "id": "kids_abc",
+  "name": "Kids ABC",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "shortDescription",
-  "fullDescription": "fullDescription",
+  "accentColor": "#4CAF50",
+  "preloadImages": [],
+  "shortDescription": "An engaging, completely free educational app for preschoolers to learn English and Gujarati alphabets (A-Z, ક-ક્ષ) and numbers (1-10) with clear audio pronunciations.",
+  "fullDescription": "Learn English and Gujarati Alphabets and Numbers with this engaging Kids ABC & Numbers app! Designed specifically for preschoolers, it provides a fun and interactive way to master numbers from 1 to 10, as well as the English and Gujarati alphabets.\n\nNumbers: Let your child master counting and number recognition through interactive activities. With audio pronunciations, they will easily grasp the correct reading of numbers in both English and Gujarati.\n\nEnglish Alphabets: Explore the English alphabet from A to Z! Our colorful and educational app aids children in learning the alphabet through engaging exercises and accurate pronunciations.\n\nGujarati Alphabet: Introduce your child to the world of Gujarati vowels and consonants! From ક to ક્ષ and અ to અ, the app provides an interactive learning experience with clear pronunciations.\n\nKey Features:\n- Best early education app for children.\n- Helps easily recognize and memorize alphabets and numbers.\n- No in-app purchases, completely free of cost.\n\nDownload now and empower your child's language and counting skills in English and Gujarati!",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+      "name": "Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.TheVayuputra.KidGame"
     },
     {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1K0eM27thcJbgelPg0q5t-A3FlX0Ii-l4/view?usp=drive_link"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+    "https://www.youtube.com/watch?v=Fr3bcMyxZrM"
   ],
   "images": [
     "screenshot1.jpg",

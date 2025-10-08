@@ -6,24 +6,24 @@
   "height": 1,
   "accentColor": "#1e88e5",
   "preloadImages": [],
-  "shortDescription": "A social UNO-style card game set in a cosmic theme with multiplayer gameplay (AI bots) and engaging mechanics.",
-  "fullDescription": "Uno Space is an engaging card game inspired by the legendary UNO format, set against a space-themed backdrop. Players match cards by number or color, use special action cards, and compete in fun and strategic rounds.\n\nKey Features:\n- Multiplayer mode with AI bots simulating real opponents\n- Single player / AI mode\n- Color & number matching mechanics with special cards (Skip, Reverse, Draw Two, Wild)\n- In-game shop & purchases\n- Ad integration (banner, interstitial)\n- Clean UI and smooth animations\n- Easy to reskin / customize\n\nUno Space gives players a familiar yet fresh twist to classic UNO, wrapped in a cosmic aesthetic.",
+  "shortDescription": "A social UNO-style card game set in a cosmic theme with options for VS Computer and Online Multiplayer modes, featuring classic card-matching mechanics.",
+  "fullDescription": "Uno Space is an engaging card game inspired by the legendary UNO format, set against a vibrant space-themed backdrop. The goal is to be the first player to empty your hand by matching cards with the discard pile by number or color.\n\nKey Features:\n\n- Game Modes: Play VS Computer (AI bots) or challenge friends in the Online Multiplayer mode.\n- Player Count: Supports strategic gameplay for 2, 3, or 4 players.\n- Classic UNO Rules: Includes standard color and number matching, as well as special action cards like Skip, Reverse, Draw Two, and Wild cards.\n- Customization: Allows players to select a profile picture and name (e.g., 'Henry').\n- Cosmic Aesthetic: Features a clean, colorful UI with smooth animations and a fun space theme that enhances the classic card game experience.",
   "links": [
     {
       "name": "Play Store",
       "url": "https://play.google.com/store/apps/details?id=com.vayuputra.UnoSpace"
     },
     {
-      "name": "APK Download",
+      "name": "Download APK",
       "url": "https://drive.google.com/file/d/1aFJMELWRNR3AXjaMKPTS-U9H-q3jTtCL/view?usp=drive_link"
     },
     {
-      "name": "Know M",
+      "name": "Know More",
       "url": "https://www.sellmyapp.com/downloads/uno-friends-unity/"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=yEcOu5WbW_4"
+    "https://youtube.com/shorts/5Rctarg5Mf0"
   ],
   "images": [
     "screenshot1.jpg",

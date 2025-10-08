@@ -1,30 +1,41 @@
 {
-  "id": "id",
-  "name": "Game Demo",
+  "id": "nuts_about_notes",
+  "name": "Nuts About Notes",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#39B54A",
-  "preloadImages": [ ],
-  "shortDescription": "shortDescription",
-  "fullDescription": "fullDescription",
+  "accentColor": "#FF8C00",
+  "preloadImages": [],
+  "shortDescription": "A fun, gamified music education app that takes children on an adventure with the character Willie to learn how to read musical notes on the staff.",
+  "fullDescription": "Nuts About Notes! is an educational adventure game designed to teach children and students how to read and identify musical notes. Join Willie, the friendly mascot, on a journey through the 'Ultimate Guitar World' to discover the secrets of reading sheet music.\n\nKey Features:\n\n- Gamified Learning: Progress through an engaging map interface (as seen in screenshot 1) by completing various levels and musical challenges.\n- Interactive Quizzes: Learn note identification through fun, card-matching-style quizzes that link note names (like F and E) to their positions on the Treble Clef staff (as seen in screenshot 6).\n- Progress Tracking: Features a dedicated screen that displays 'Notes You Have Learned So Far,' showing your mastery of notes across different levels on the musical staff.\n- Customizable Experience: The Settings menu allows users (Parents/Teachers) to track student 'Progress' and 'Level' completion, and control sound, music, and instrument settings.\n- User Profiles: Supports entering a username to save and track individual progress.",
   "links": [
     {
-      "name": "SellMyApp Listing",
-      "url": "https://www.sellmyapp.com/downloads/knife-hit-unity-clone/"
+      "name": "Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.nutsaboutnotes.guitar&hl=en"
     },
     {
-      "name": "APK Download",
-      "url": "https://drive.google.com/file/d/1Ih5E24l2bgMivApva-mlRokIBU6ul-Ls/view?usp=drive_link"
+      "name": "App Store",
+      "url": "https://apps.apple.com/us/app/nuts-about-notes/"
+    },
+    {
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1kQLACl-8p8IAMnsUZ9jbWVr8JeC-gOJj/view?usp=drive_link"
+    },
+    {
+      "name": "Know More",
+      "url": "https://www.totesnotes.com/"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=5Rctarg5Mf0"
+    "https://www.youtube.com/watch?v=GFmTUbAIR5Y"
   ],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
-    "screenshot4.jpg"
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg"
   ]
 }
