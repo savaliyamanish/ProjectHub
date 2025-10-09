@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#a00000",
   "preloadImages": [],
-  "shortDescription": "A single-player digital adaptation of the classic card game Cribbage, featuring score tracking and board customization.",
-  "fullDescription": "Cribbage Solitaire is a mobile adaptation of the traditional card game, where the player scores points by forming combinations with their cards (e.g., 15' 2) and pegs them on a virtual Cribbage board [screenshot7.jpg]. The main menu offers comprehensive features including 'Achievements,' a 'Daily Challenge,' 'Statistics,' and a 'Tutorial' [screenshot1.jpg].\n\nKey Features:\n- Classic Cribbage rules adapted for single-player ('Solitaire') gameplay.\n- Track current, daily, and highest scores.\n- Extensive customization for 'Cards,' 'Boards' (Rare, Legendary, Epic), and 'Backgrounds' using in-game coins [screenshot12.jpg].\n- Rewards system and in-app purchase options (e.g., 'Remove Ads').",
+  "shortDescription": "<p>A single-player digital adaptation of the classic card game Cribbage, featuring score tracking and board customization.</p>",
+  "fullDescription": "<p><strong>Cribbage Solitaire</strong> is a mobile adaptation of the traditional card game, where the player scores points by forming combinations with their cards (e.g., 15' 2) and pegs them on a virtual Cribbage board. The main menu offers comprehensive features including 'Achievements,' a 'Daily Challenge,' 'Statistics,' and a 'Tutorial'.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Solitaire Gameplay:</strong> Classic Cribbage rules adapted for single-player gameplay.</li>\n  <li><strong>Score Tracking:</strong> Track current, daily, and highest scores.</li>\n  <li><strong>Extensive Customization:</strong> Customize 'Cards,' 'Boards' (Rare, Legendary, Epic), and 'Backgrounds' using in-game coins.</li>\n  <li><strong>Monetization:</strong> Features a rewards system and in-app purchase options (e.g., 'Remove Ads').</li>\n</ul>",
   "links": [],
   "videos": [
     "https://www.youtube.com/watch?v=0PesuaRC7lE"

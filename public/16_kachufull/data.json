@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#993300",
   "preloadImages": [],
-  "shortDescription": "A digital adaptation of the popular Indian trick-taking card game, playable with up to six opponents.",
-  "fullDescription": "Kachufool is a trick-taking card game where players predict the number of 'hands' or 'tricks' they can win in a round. The digital version features a competitive multiplayer table layout accommodating up to six players (or AI opponents) [screenshot1.jpg]. The game displays whose turn it is and the current round number [screenshot2.jpg]. Key gameplay elements include the 'Hakum' (Trump) suit, visible on the top right, and tracking of tricks won (0/0 score display for each player).\n\nKey Features:\n- Classic Indian trick-taking card game rules.\n- Supports up to six players/opponents.\n- Clearly indicates the 'Hakum' (Trump) suit for the round.\n- Simple interface for tracking tricks won (hands).",
+  "shortDescription": "<p>A digital adaptation of the popular Indian trick-taking card game, playable with up to six opponents.</p>",
+  "fullDescription": "<p><strong>Kachufool</strong> is a trick-taking card game where players predict the number of 'hands' or 'tricks' they can win in a round. The digital version features a competitive multiplayer table layout accommodating up to six players (or AI opponents).</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Indian Card Game:</strong> Based on the traditional trick-taking card game rules.</li>\n  <li><strong>Multiplayer Support:</strong> Playable with up to six players/opponents (AI or human).</li>\n  <li><strong>'Hakum' (Trump) Suit:</strong> The current Trump suit is clearly indicated for easy gameplay.</li>\n  <li><strong>Simple Interface:</strong> The game easily tracks whose turn it is, the current round number, and the number of tricks won by each player.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",

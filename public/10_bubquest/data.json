@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#0099ff",
   "preloadImages": [],
-  "shortDescription": "A vibrant and colorful bubble popping/shooter game with multiple levels, power-ups, and a competitive 'Hall of Fame'.",
-  "fullDescription": "BubQuest is an exciting bubble shooter game where players burst colorful bubbles to achieve high scores and earn prizes. The core gameplay involves matching colors and using power-ups, like the bomb, to clear the screen (as seen in the gameplay screenshot). The main menu offers options for a full game experience, including 'Play', 'Prizes', 'Hall of Fame', a 'Bub Shop', and a 'How To Play' guide.\n\nKey Features:\n- Classic bubble-popping/shooter gameplay\n- Bomb power-ups for clearing large groups of bubbles\n- In-game 'Prizes' and 'Bub Shop'\n- 'Hall of Fame' for high-score tracking\n- Sound control and user sign-in/guest features",
+  "shortDescription": "<p>A vibrant and colorful bubble popping/shooter game with multiple levels, power-ups, and a competitive 'Hall of Fame'.</p>",
+  "fullDescription": "<p><strong>BubQuest</strong> is an exciting bubble shooter game where players burst colorful bubbles to achieve high scores and earn prizes. The core gameplay involves matching colors and using power-ups, like the bomb, to clear the screen.</p>\n<p>The main menu offers a full game experience, including 'Play', 'Prizes', 'Hall of Fame', a 'Bub Shop', and a 'How To Play' guide.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Bubble Shooter:</strong> Engage in the satisfying, classic bubble-popping gameplay.</li>\n  <li><strong>Power-Ups:</strong> Use **Bomb** power-ups to clear large groups of bubbles and strategize your moves.</li>\n  <li><strong>Competitive Tracking:</strong> Track your best scores and climb the ranks in the **'Hall of Fame'**.</li>\n  <li><strong>Rewards System:</strong> Earn in-game currency to spend in the **'Bub Shop'** and unlock various **'Prizes'**.</li>\n  <li><strong>User-Friendly Interface:</strong> Includes sound control and options for user sign-in or guest play.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",

@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#00aaff",
   "preloadImages": [],
-  "shortDescription": "A side-scrolling action runner game set in an industrial environment, featuring shooting and melee combat.",
-  "fullDescription": "Loaded Runner is a fast-paced, side-scrolling action platformer. Players control a young character who navigates across industrial platforms and avoids obstacles in a pipe-filled, factory-like setting. Unlike traditional runners, the game incorporates combat mechanics, providing the player with on-screen controls for jumping/moving (arrow), shooting (gun icon), and melee combat (fist/lightning icon). The objective is to achieve a high score and collect yellow star coins.",
+  "shortDescription": "<p>A side-scrolling action runner game set in an industrial environment, featuring shooting and melee combat.</p>",
+  "fullDescription": "<p><strong>Loaded Runner</strong> is a fast-paced, side-scrolling action platformer. Players control a young character who navigates across industrial platforms and avoids obstacles in a pipe-filled, factory-like setting.</p>\n<p>Unlike traditional runners, the game incorporates robust combat mechanics, providing the player with on-screen controls for <strong>Jumping/Moving</strong>, <strong>Shooting</strong>, and <strong>Melee Combat</strong>.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Action-Packed Runner:</strong> Enjoy a side-scrolling game that combines running and platforming.</li>\n  <li><strong>Combat Mechanics:</strong> Engage enemies using both **shooting** (gun icon) and **melee** (fist icon) controls.</li>\n  <li><strong>Industrial Setting:</strong> Navigate through challenging, obstacle-filled industrial and factory environments.</li>\n  <li><strong>High Score Goal:</strong> The primary objective is to achieve a high score and collect yellow star coins.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",

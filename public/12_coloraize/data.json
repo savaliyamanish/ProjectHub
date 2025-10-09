@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#ff3366",
   "preloadImages": [],
-  "shortDescription": "A digital coloring book app featuring detailed line art in various categories like Animals and Florals.",
-  "fullDescription": "Colorize is a digital coloring application that allows users to select from a gallery of intricate line art, categorized by themes such as 'Animals' (e.g., a swan) and 'Florals'. The main interface features a 'GALLERY' to browse, a section for 'INSPIRATION', and 'MY DESIGNS' for saved work. The coloring screen provides a full multi-color palette at the bottom, along with controls for 'UNDO', 'SHARE', and navigation back to 'HOME', offering a relaxing and intuitive digital art experience.",
+  "shortDescription": "<p>A digital coloring book app featuring detailed line art in various categories like Animals and Florals.</p>",
+  "fullDescription": "<p><strong>Colorize</strong> is a digital coloring application that offers a relaxing and intuitive digital art experience. Users can select from a gallery of intricate line art, categorized by themes such as 'Animals' and 'Florals'.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Extensive Gallery:</strong> Browse detailed line art categorized by themes like 'Animals' and 'Florals'.</li>\n  <li><strong>Organized Interface:</strong> The main menu features a 'GALLERY' to browse, a section for 'INSPIRATION', and 'MY DESIGNS' for saved work.</li>\n  <li><strong>Full Coloring Tools:</strong> The coloring screen provides a full multi-color palette and essential controls for <strong>'UNDO'</strong> and <strong>'SHARE'</strong>.</li>\n  <li><strong>Relaxing Experience:</strong> Offers an intuitive and distraction-free environment for digital art.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",
