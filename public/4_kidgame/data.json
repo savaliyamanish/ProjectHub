@@ -1,11 +1,11 @@
 {
   "id": "kids_abc",
   "name": "Kids ABC",
-  "iconUrl": "icon.jpg",
+  "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
   "accentColor": "#4CAF50",
-  "preloadImages": [],
+  "preloadImages": ["icon.mp4"],
   "shortDescription": "<p>An engaging, completely free educational app for preschoolers to learn English and Gujarati alphabets (A-Z, ક-ક્ષ) and numbers (1-10) with clear audio pronunciations.</p>",
   "fullDescription": "<p>Learn English and Gujarati Alphabets and Numbers with this engaging <strong>Kids ABC & Numbers</strong> app! Designed specifically for preschoolers, it provides a fun and interactive way to master numbers from 1 to 10, as well as the English and Gujarati alphabets.</p>\n<p><strong>Numbers:</strong> Let your child master counting and number recognition through interactive activities. With audio pronunciations, they will easily grasp the correct reading of numbers in both English and Gujarati.</p>\n<p><strong>English Alphabets:</strong> Explore the English alphabet from A to Z! Our colorful and educational app aids children in learning the alphabet through engaging exercises and accurate pronunciations.</p>\n<p><strong>Gujarati Alphabet:</strong> Introduce your child to the world of Gujarati vowels and consonants! From ક to ક્ષ and અ to અ, the app provides an interactive learning experience with clear pronunciations.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Best early education app</strong> for children.</li>\n  <li>Helps easily recognize and <strong>memorize alphabets and numbers</strong>.</li>\n  <li><strong>No in-app purchases</strong>, completely free of cost.</li>\n</ul>\n<p>Download now and empower your child's language and counting skills in English and Gujarati!</p>",
   "links": [
