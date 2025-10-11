@@ -290,15 +290,26 @@ h1.dialog-title {
   color: #696969;
 }
 .dialog-close {
-  position: absolute;
+  position: fixed;
   top: 20px;
   right: 20px;
   cursor:pointer;
   font-size: 1.2em;
   font-weight: 100;
+  z-index: 12;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
 }
 .dialog-close:hover {
-  opacity: 0.6;
+  background: rgba(0, 0, 0, 0.9);
+  transform: scale(1.1);
 }
 
 .dialog-bottom {
