@@ -1,36 +1,38 @@
 {
-  "id": "1_narqubis",
-  "name": "NARQUBIS Demo",
-  "iconUrl": "icon.png",
-  "width": 2,
+  "id": "narqubis",
+  "name": "Narqubis",
+  "iconUrl": "icon.jpg",
+  "width": 1,
   "height": 1,
-  "accentColor": "#23bd69",
-  "preloadImages": [
-    "icon.png"
-  ],
-  "shortDescription": "Fast-paced shooter game with thrilling gunfights.",
-  "fullDescription": "NARQUBIS is an action-packed shooter gun game featuring intense battles, multiple modes, and immersive gameplay. Experience story missions, deathmatches, and new game modes with powerful weapons and competitive challenges.",
+  "accentColor": "#2a9df4",
+  "preloadImages": ["icon.jpg"],
+  "shortDescription": "<p>In Narqubis, journey to a mysterious planet in search of the rare energy mineral Staburonium, engage in intense combat between humans and the native Manuka, and decide which side you'll fight for in this immersive third-person multiplayer shooter.</p>",
+  "fullDescription": "<p><strong>About Narqubis</strong><br>\nIn a future where Earth is running out of energy, humanity sets its hope on Narqubis — a planet rich in a powerful mineral called Staburonium. As humans begin extracting resources, the native Manuka people push back. Now the fate of conflict, alliance, and survival rests in your hands.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Multiplayer Combat:</strong> Join fast-paced third-person battles in team modes that test your strategy and reflexes.</li>\n  <li><strong>Story & Modes:</strong> Play through a narrative storyline, or dive into Deathmatch and Survival modes for pure action.</li>\n  <li><strong>Choice & Allegiance:</strong> Decide whether to side with humanity for resource control or to defend the Manuka homeland.</li>\n  <li><strong>Exploration & Strategy:</strong> Traverse alien environments, gather resources, and survive the planet’s hazards.</li>\n  <li><strong>Immersive Graphics:</strong> Stunning visuals and fluid controls bring the world of Narqubis to life. (<em>As praised on the Play Store</em>)</li>\n</ul>\n\n<p>In Narqubis, alliances and battles shape your journey. Whether you fight for Earth’s survival or protect Narqubis’s native world, each match brings new tactics, challenges, and surprises.</p>",
   "links": [
     {
-      "name": "Website",
-      "url": "https://example.com"
-    },
-    {
       "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.narqubis.game"
+      "url": "https://play.google.com/store/apps/details?id=com.tfb.narqubis"
     },
     {
       "name": "App Store",
-      "url": "https://apps.apple.com/app/narqubis/id1234567890"
+      "url": "https://apps.apple.com/in/app/narqubis-battle-of-gun-bullet/id6478858434"
+    },
+    {
+      "name": "Know More",
+      "url": "https://narqubis.com/"
     }
   ],
   "videos": [
-    "https://www.youtube.com/watch?v=aHehfWSNb_A"
+    "https://www.youtube.com/watch?v=JcZeLNDuBSI&pp=0gcJCfwJAYcqIYzv",
+    "https://www.youtube.com/watch?v=aHehfWSNb_A",
+    "https://www.youtube.com/watch?v=GFWDS8-qHHE&pp=0gcJCfwJAYcqIYzv",
+    "https://www.youtube.com/watch?v=90HoJB11aYc",
+    "https://www.youtube.com/watch?v=lfbbVRwgqXs"
   ],
   "images": [
-    "screenshot1.png",
-    "screenshot2.png",
-    "screenshot1.png",
-    "screenshot1.png"
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
   ]
 }
