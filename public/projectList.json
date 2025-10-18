@@ -2,6 +2,10 @@
   "baseUrl": "",
   "gameProjects": [
     {
+      "id": "1_narqubis",
+      "override": {}
+    },
+    {
       "id": "2_uno",
       "override": {}
     },
