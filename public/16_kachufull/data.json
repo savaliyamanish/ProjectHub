@@ -6,8 +6,8 @@
   "height": 1,
   "accentColor": "#993300",
   "preloadImages": [],
-  "shortDescription": "<p>A digital adaptation of the popular Indian trick-taking card game, playable with up to six opponents.</p>",
-  "fullDescription": "<p><strong>Kachufool</strong> is a trick-taking card game where players predict the number of 'hands' or 'tricks' they can win in a round. The digital version features a competitive multiplayer table layout accommodating up to six players (or AI opponents).</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Indian Card Game:</strong> Based on the traditional trick-taking card game rules.</li>\n  <li><strong>Multiplayer Support:</strong> Playable with up to six players/opponents (AI or human).</li>\n  <li><strong>'Hakum' (Trump) Suit:</strong> The current Trump suit is clearly indicated for easy gameplay.</li>\n  <li><strong>Simple Interface:</strong> The game easily tracks whose turn it is, the current round number, and the number of tricks won by each player.</li>\n</ul>",
+  "shortDescription": "<p>A digital offline demo of Kachufool, the popular Indian trick-taking card game where players predict the number of tricks they can win.</p>",
+  "fullDescription": "<p><strong>Kachufool</strong> is an offline card game based on the traditional Indian trick-taking rules. Players aim to predict and win the exact number of tricks in each round. The digital demo supports up to six opponents (AI) and highlights the current trump suit for easy tracking.</p>\n<p><strong>Gameplay Highlights:</strong></p>\n<ul>\n  <li>Predict the number of tricks you can win each round.</li>\n  <li>Trump suit ('Hakum') clearly indicated for strategic play.</li>\n  <li>Supports up to six AI opponents for offline demo play.</li>\n  <li>Simple, easy-to-read interface with round and score tracking.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",
@@ -19,6 +19,8 @@
   ],
   "images": [
     "screenshot1.jpg",
-    "screenshot2.jpg"
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg"
   ]
 }
