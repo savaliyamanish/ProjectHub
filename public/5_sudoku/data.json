@@ -4,7 +4,7 @@
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#512DA8",
+  "accentColor": "#502070",
   "preloadImages": [],
   "shortDescription": "<p>The classic number-placement puzzle on your phone, featuring four difficulty levels (Easy to Expert) and essential solving tools like hints and notes.</p>",
   "fullDescription": "<p><strong>Sudoku</strong> is the ultimate brain-training puzzle experience, bringing the classic 9x9 grid challenge to your mobile device. The goal is to fill the grid so that every row, every column, and every 3x3 block contains the numbers 1 through 9.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Multiple Difficulty Levels:</strong> Choose from four expertly crafted levels: <strong>Easy, Medium, Hard, and Expert</strong>.</li>\n  <li><strong>Essential Solver Tools:</strong> Includes <strong>Pencil/Notes Mode</strong>, Undo, Erase, and a <strong>Hint System</strong> for subtle assistance.</li>\n  <li><strong>Error Checking:</strong> Visually highlights incorrect placements so you can quickly fix mistakes.</li>\n  <li><strong>Time Tracking:</strong> Monitor and improve your solve times to challenge your personal bests.</li>\n  <li><strong>Simple & Clean UI:</strong> A minimalistic design focused on a distraction-free puzzle experience.</li>\n</ul>",

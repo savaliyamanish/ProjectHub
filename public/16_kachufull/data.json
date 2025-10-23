@@ -4,7 +4,7 @@
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#993300",
+  "accentColor": "#8B4513",
   "preloadImages": [],
   "shortDescription": "<p>A digital offline demo of Kachufool, the popular Indian trick-taking card game where players predict the number of tricks they can win.</p>",
   "fullDescription": "<p><strong>Kachufool</strong> is an offline card game based on the traditional Indian trick-taking rules. Players aim to predict and win the exact number of tricks in each round. The digital demo supports up to six opponents (AI) and highlights the current trump suit for easy tracking.</p>\n<p><strong>Gameplay Highlights:</strong></p>\n<ul>\n  <li>Predict the number of tricks you can win each round.</li>\n  <li>Trump suit ('Hakum') clearly indicated for strategic play.</li>\n  <li>Supports up to six AI opponents for offline demo play.</li>\n  <li>Simple, easy-to-read interface with round and score tracking.</li>\n</ul>",

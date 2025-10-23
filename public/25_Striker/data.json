@@ -4,7 +4,7 @@
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#00ff7f",
+  "accentColor": "#1E5A1E",
   "preloadImages": [],
   "shortDescription": "<p>A digital version of the classic board game Carrom (Striker Board), offering multiple multiplayer and single-player modes.</p>",
   "fullDescription": "<p><strong>Striker Board</strong> is a digital adaptation of the popular tabletop game, Carrom, where players use a striker to hit colored coins into corner pockets.</p>\n<p>The game board includes the pocket targets, the coins (including a special central Queen/Dartboard coin), and a score-tracking system for both players (or AI).</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Multiple Game Modes:</strong> Includes 'Pass & Play' (local multiplayer), 'Against CPU' (single-player), 'Multiplayer (Online)', and 'Multiplayer (Wi-Fi)'.</li>\n  <li><strong>Score Tracking:</strong> The interface clearly displays and tracks the current score against the opponent's (AI or human) score.</li>\n  <li><strong>Classic Mechanics:</strong> Accurate simulation of the Carrom board game, utilizing coins and a central specialized coin (likely the Queen/Red coin).</li>\n</ul>",

@@ -1,5 +1,5 @@
 {
-  "baseUrl": "",
+  "baseUrl": "https://savaliyamanish.github.io/ProjectHub/",
   "gameProjects": [
     {
       "id": "1_narqubis",
@@ -115,7 +115,7 @@
       "id": "1_narqubis",
       "override": {
         "width": 1,
-        "height": 1,
+        "height": 2,
         "name": "NARQUBIS - Web Version"
       }
     },
@@ -123,10 +123,34 @@
       "id": "1_narqubis",
       "override": {
         "width": 2,
-        "height": 2
+        "height": 1
       }
     },
     {
+      "id": "1_narqubis",
+      "override": {
+        "width": 1,
+        "height": 1
+      }
+    },{
+      "id": "1_narqubis",
+      "override": {
+        "width": 1,
+        "height": 1
+      }
+    },{
+      "id": "1_narqubis",
+      "override": {
+        "width": 1,
+        "height": 1
+      }
+    },{
+      "id": "1_narqubis",
+      "override": {
+        "width": 1,
+        "height": 1
+      }
+    },{
       "id": "1_narqubis",
       "override": {
         "width": 1,

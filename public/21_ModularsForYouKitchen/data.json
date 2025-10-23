@@ -4,7 +4,7 @@
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#8d6e63",
+  "accentColor": "#5C3F2E",
   "preloadImages": [],
   "shortDescription": "<p>An interactive 3D kitchen planner that lets users design, customize, and visualize modular kitchens online.</p>",
   "fullDescription": "<p><strong>Modulars For You Kitchen</strong> is a web-based modular kitchen design and visualization tool inspired by modern kitchen planners. It allows users to create their dream kitchen layout using an intuitive drag-and-drop interface and view it in both 2D and 3D modes.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>2D and 3D Design Modes:</strong> Plan layouts in 2D and instantly switch to a realistic 3D preview.</li>\n  <li><strong>Customizable Layouts:</strong> Create, edit, and arrange cabinets, countertops, and appliances to fit your space.</li>\n  <li><strong>Material and Color Selection:</strong> Experiment with multiple finishes and color combinations for walls, furniture, and flooring.</li>\n  <li><strong>Real-Time Cost Estimation:</strong> View estimated pricing updates as you modify your design.</li>\n  <li><strong>Save and Share Projects:</strong> Save your kitchen designs and share them with others using a unique project code.</li>\n  <li><strong>User-Friendly Interface:</strong> Designed for easy use by homeowners, interior designers, and retailers alike.</li>\n</ul>\n<p>Create and visualize your ideal modular kitchen directly from your browser with precision and style.</p>",

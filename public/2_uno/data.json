@@ -4,7 +4,7 @@
   "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
-  "accentColor": "#1e88e5",
+  "accentColor": "#ff8c00",
   "preloadImages": ["icon.mp4"],
   "shortDescription": "<p>A space-themed UNO-style card game with classic rules, smooth visuals, and AI opponents that simulate an online multiplayer experience.</p>",
   "fullDescription": "<p><strong>Uno Space</strong> reimagines the classic UNO gameplay with a vibrant outer-space theme and sleek animations. Match cards by number or color, use special cards strategically, and race to be the first to play all your cards.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Play Modes:</strong> Includes VS Computer mode and a simulated 'Multiplayer' option where AI opponents appear with real-like names and profiles, creating the feel of an online match.</li>\n  <li><strong>Classic UNO Rules:</strong> Features Skip, Reverse, Draw Two, Wild, and other action cards for authentic gameplay.</li>\n  <li><strong>Player Customization:</strong> Choose your name and avatar to personalize your game profile.</li>\n  <li><strong>Cosmic Look & Feel:</strong> Enjoy a clean, colorful interface and a fun intergalactic aesthetic.</li>\n</ul>",

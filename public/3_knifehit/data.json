@@ -4,7 +4,7 @@
   "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
-  "accentColor": "#FFB300",
+  "accentColor": "#284040",
   "preloadImages": ["icon.mp4"],
   "shortDescription": "<p>An addictive, one-tap arcade game where you must precisely throw knives into a rotating log or unique boss target without hitting any existing blades.</p>",
   "fullDescription": "<p><strong>Knife Hit</strong> is an incredibly fun and challenging arcade game that tests your precision and timing. The objective is simple: throw all your available knives into the spinning wooden log or boss target to break it and proceed to the next level.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Addictive One-Tap Gameplay:</strong> Easy to learn controls—just tap to throw the knife.</li>\n  <li><strong>Challenging Stages:</strong> Progress through stages with increasing difficulty.</li>\n  <li><strong>Boss Battles:</strong> Every few stages, face a unique, moving boss target with obstacles for special challenges and rewards.</li>\n  <li><strong>Collect Apples:</strong> Hit the apples attached to the log or boss to earn currency.</li>\n  <li><strong>Unlock New Blades:</strong> Use your collected apples in the shop to unlock a large variety of over 20 unique knives and swords.</li>\n  </ul>",
