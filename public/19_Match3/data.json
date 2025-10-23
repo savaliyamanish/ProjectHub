@@ -1,13 +1,13 @@
 {
-  "id": "tap_3_type",
-  "name": "Tap 3 Type",
+  "id": "match_3",
+  "name": "Match 3",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
   "accentColor": "#ffaa00",
   "preloadImages": [],
-  "shortDescription": "<p>A cute farm-themed block-blasting puzzle game where players tap groups of matching cubes to meet level goals with limited moves.</p>",
-  "fullDescription": "<p><strong>Tap 3 Type</strong> is a colorful and casual match-2 (or tap-to-blast) puzzle game set in a bright, outdoor environment, guided by an animated pig mascot. The core mechanic involves tapping clusters of two or more similarly colored cubes (featuring icons like houses, pigs, and sheep) to clear them from the board.</p>\n<p>Each level presents a specific GOAL (e.g., clear 10 red blocks and 10 green blocks) that must be met within a limited number of MOVES.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Puzzle Gameplay:</strong> Enjoy the satisfying mechanics of a block-blasting puzzle.</li>\n  <li><strong>Strategic Challenge:</strong> Limited MOVES per level require careful planning to meet the GOAL.</li>\n  <li><strong>Power-Ups:</strong> Utilize powerful boosters like the Cannon, Firework, and Rocket to help clear the board.</li>\n  <li><strong>Performance Tracking:</strong> A star rating system tracks and rewards your level performance.</li>\n</ul>",
+  "shortDescription": "<p>A colorful, farm-themed match-3 puzzle game where players tap groups of matching cubes to complete level goals within limited moves.</p>",
+  "fullDescription": "<p><strong>Match 3</strong> is a vibrant and casual match-3 puzzle game inspired by popular cube-blasting mechanics. Set in a cheerful farm environment, players tap clusters of three or more identical cubes to blast them from the board and progress through levels.</p>\n<p>Each level has specific objectives (e.g., clear a certain number of red and green cubes) that must be completed within a limited number of moves. Strategic thinking and timing are key to mastering each stage.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Engaging Match-3 Gameplay:</strong> Tap clusters of three or more cubes to clear them and trigger chain reactions.</li>\n  <li><strong>Level Objectives:</strong> Complete unique goals in each level using limited moves.</li>\n  <li><strong>Exciting Power-Ups:</strong> Use boosters like Cannon, Firework, and Rocket to blast more cubes and create combos.</li>\n  <li><strong>Progress Tracking:</strong> Earn stars based on your performance and aim for high scores.</li>\n</ul>",
   "links": [
     {
       "name": "APK Download",
@@ -21,6 +21,8 @@
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
-    "screenshot4.jpg"
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg"
   ]
 }
