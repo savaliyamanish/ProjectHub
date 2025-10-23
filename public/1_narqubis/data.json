@@ -1,7 +1,8 @@
 {
   "id": "narqubis",
   "name": "Narqubis",
-  "iconUrl": "icon2x1.mp4",
+  "iconUrl": "icon2x1.mp4",  
+  "hideName": true,
   "width": 2,
   "height": 1,
   "accentColor": "#a86b00",
