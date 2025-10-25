@@ -1,25 +1,18 @@
 {
-  "id": "live_math_competitions_and_league",
-  "name": "Live Math Competitions and League",
+  "id": "hunger_feed",
+  "name": "Hunger Feed",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#0066cc",
-  "preloadImages": [],
-  "shortDescription": "<p>An interactive mental math app with practice modes, live 1v1 competitions, and league events for learners of all ages.</p>",
-  "fullDescription": "<p><strong>Live Math Competitions and League</strong> is a dynamic platform for improving arithmetic skills through practice, competitions, and leagues. Designed for all ages, it combines gamification with interactive math challenges to make learning fun and engaging.</p>\n\n<h2>Game Modes:</h2>\n<ul>\n  <li><strong>Practice Levels:</strong> Challenger, Master, and Grandmaster levels with 10 rounds each. Earn badges—Bronze, Silver, or Gold—by completing levels.</li>\n  <li><strong>1 vs 1 Multiplayer:</strong> Challenge friends, random players, or the in-house bot Mathador. Bet coins to compete head-to-head in real-time.</li>\n  <li><strong>Leagues & Events:</strong> Form teams of 2 in Leagues to earn points and a Ruby Badge, or compete solo in Events with 3 attempts per 24 hours for an Emerald Badge.</li>\n</ul>\n<h2>Topics Covered:</h2>\n<p>Addition, Subtraction, Multiplication, Division, BODMAS, Percentages, Averages, Ratios, Decimals, HCF & LCM, Factors, Exponents, and more",
-  "links": [
-    {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.livemcl.quizgame"
-    },
-    {
-      "name": "Know More",
-      "url": "https://livemcl.com/"
-    }
+  "accentColor": "#d0325d",
+  "preloadImages": [
+    "icon.jpg"
   ],
+  "shortDescription": "<p>A fast-paced match-3 puzzle game where you feed a hungry sumo wrestler by matching delicious food tiles to reach the target weight before time runs out!</p>",
+  "fullDescription": "<p><strong>Hunger Feed</strong> is a fun and addictive match-3 puzzle game with a hilarious food theme. Feed the sumo wrestler by matching and clearing tiles of various foods like sushi, donuts, hot dogs, and soda to reach the target weight before time runs out.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Match-3 Gameplay:</strong> Match three or more food tiles to clear the board.</li>\n  <li><strong>Weight Goal Challenge:</strong> Watch the sumo's weight meter rise as you feed him and aim to hit the level's target weight.</li>\n  <li><strong>Power-Ups:</strong> Use kitchen-themed power-ups like spatulas, cleavers, and hourglasses strategically to clear tiles and boost your score.</li>\n  <li><strong>Rewards Wheel:</strong> Spin 'The Hunger Wheel' daily to win power-ups, coins, and other exciting rewards.</li>\n  <li><strong>Humorous Theme:</strong> Enjoy quirky animations and fun food-themed challenges while feeding your sumo.</li>\n</ul>",
+  "links": [],
   "videos": [
-    "https://www.youtube.com/watch?v=9e8MVpQzD9c"
+    "https://www.youtube.com/watch?v=Q07zvzid_r0"
   ],
   "images": [
     "screenshot1.jpg",
@@ -30,6 +23,13 @@
     "screenshot6.jpg",
     "screenshot7.jpg",
     "screenshot8.jpg",
-    "screenshot9.jpg"
+    "screenshot9.jpg",
+    "screenshot10.jpg",
+    "screenshot11.jpg",
+    "screenshot12.jpg",
+    "screenshot13.jpg",
+    "screenshot14.jpg",
+    "screenshot15.jpg",
+    "screenshot16.jpg"
   ]
 }

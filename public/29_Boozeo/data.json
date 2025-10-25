@@ -1,25 +1,18 @@
 {
-  "id": "live_math_competitions_and_league",
-  "name": "Live Math Competitions and League",
+  "id": "boozeo",
+  "name": "Boozeo",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#0066cc",
-  "preloadImages": [],
-  "shortDescription": "<p>An interactive mental math app with practice modes, live 1v1 competitions, and league events for learners of all ages.</p>",
-  "fullDescription": "<p><strong>Live Math Competitions and League</strong> is a dynamic platform for improving arithmetic skills through practice, competitions, and leagues. Designed for all ages, it combines gamification with interactive math challenges to make learning fun and engaging.</p>\n\n<h2>Game Modes:</h2>\n<ul>\n  <li><strong>Practice Levels:</strong> Challenger, Master, and Grandmaster levels with 10 rounds each. Earn badges—Bronze, Silver, or Gold—by completing levels.</li>\n  <li><strong>1 vs 1 Multiplayer:</strong> Challenge friends, random players, or the in-house bot Mathador. Bet coins to compete head-to-head in real-time.</li>\n  <li><strong>Leagues & Events:</strong> Form teams of 2 in Leagues to earn points and a Ruby Badge, or compete solo in Events with 3 attempts per 24 hours for an Emerald Badge.</li>\n</ul>\n<h2>Topics Covered:</h2>\n<p>Addition, Subtraction, Multiplication, Division, BODMAS, Percentages, Averages, Ratios, Decimals, HCF & LCM, Factors, Exponents, and more",
-  "links": [
-    {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.livemcl.quizgame"
-    },
-    {
-      "name": "Know More",
-      "url": "https://livemcl.com/"
-    }
+  "accentColor": "#FF33CC",
+  "preloadImages": [
+    "icon.jpg"
   ],
+  "shortDescription": "<p>Step into Boozeo — a vibrant 3D social bar metaverse! Customize your avatar, join or host parties, play branded mini-games like slots and spin wheel, and connect with others in a lively virtual nightlife experience.</p>",
+  "fullDescription": "<p><strong>Boozeo</strong> is a lively <strong>3D social bar simulator and metaverse</strong> where players can relax, play, and socialize in a virtual nightlife world. Create your avatar, explore interactive environments, play exciting mini-games, and connect with others through parties, chat, and dance moves.</p>\n<p><strong>🌟 Key Features:</strong></p>\n<ul>\n\t<li><strong>🎭 Avatar Customization & Profile:</strong> Design your unique avatar, view personal stats, and track daily login rewards.</li>\n\t<li><strong>🎉 Social & Party System:</strong> Host private gatherings or join open parties. Meet new people, chat, and track visitors and trending hangouts.</li>\n\t<li><strong>🏙️ Immersive 3D Bar Environment:</strong> Enjoy a detailed virtual bar with interactive elements like a pool table, hookah, and media screen — all in real-time multiplayer.</li>\n\t<li><strong>🎰 Mini-Games & Rewards:</strong> Try your luck on the <strong>Boozeo Slot Machine</strong> featuring real-world liquor brands like <em>Captain Morgan</em>, <em>Jim Beam</em>, and <em>Staropramen</em>. Spin the <strong>Daily Wheel</strong> for a chance to win gold coins and exclusive prizes.</li>\n\t<li><strong>💃 Animations & Emotes:</strong> Express yourself with a wide variety of dance moves, gestures, and emotes to keep the party alive.</li>\n\t<li><strong>💰 In-Game Currency:</strong> Earn, track, and spend your <strong>gold coins</strong> as you participate in various activities and rewards throughout the bar.</li>\n</ul>\n<p><strong>🎬 Trailer:</strong> <a href=\"https://www.youtube.com/watch?v=xENTgjkrJfY\">Watch on YouTube</a></p>\n<p><strong>📸 Highlights:</strong> Immersive bar and club environments, social and party interactions, slot machine and spin wheel gameplay, avatar customization, and expressive animations.</p>",
+  "links": [],
   "videos": [
-    "https://www.youtube.com/watch?v=9e8MVpQzD9c"
+    "https://www.youtube.com/watch?v=xENTgjkrJfY"
   ],
   "images": [
     "screenshot1.jpg",
@@ -28,8 +21,6 @@
     "screenshot4.jpg",
     "screenshot5.jpg",
     "screenshot6.jpg",
-    "screenshot7.jpg",
-    "screenshot8.jpg",
-    "screenshot9.jpg"
+    "screenshot7.jpg"
   ]
 }

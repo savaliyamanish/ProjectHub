@@ -1,35 +1,24 @@
 {
-  "id": "live_math_competitions_and_league",
-  "name": "Live Math Competitions and League",
+  "id": "dont_end_a_word",
+  "name": "Don't End a Word",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#0066cc",
-  "preloadImages": [],
-  "shortDescription": "<p>An interactive mental math app with practice modes, live 1v1 competitions, and league events for learners of all ages.</p>",
-  "fullDescription": "<p><strong>Live Math Competitions and League</strong> is a dynamic platform for improving arithmetic skills through practice, competitions, and leagues. Designed for all ages, it combines gamification with interactive math challenges to make learning fun and engaging.</p>\n\n<h2>Game Modes:</h2>\n<ul>\n  <li><strong>Practice Levels:</strong> Challenger, Master, and Grandmaster levels with 10 rounds each. Earn badges—Bronze, Silver, or Gold—by completing levels.</li>\n  <li><strong>1 vs 1 Multiplayer:</strong> Challenge friends, random players, or the in-house bot Mathador. Bet coins to compete head-to-head in real-time.</li>\n  <li><strong>Leagues & Events:</strong> Form teams of 2 in Leagues to earn points and a Ruby Badge, or compete solo in Events with 3 attempts per 24 hours for an Emerald Badge.</li>\n</ul>\n<h2>Topics Covered:</h2>\n<p>Addition, Subtraction, Multiplication, Division, BODMAS, Percentages, Averages, Ratios, Decimals, HCF & LCM, Factors, Exponents, and more",
-  "links": [
-    {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.livemcl.quizgame"
-    },
-    {
-      "name": "Know More",
-      "url": "https://livemcl.com/"
-    }
+  "accentColor": "#42a5f5",
+  "preloadImages": [
+    "icon.jpg"
   ],
+  "shortDescription": "<p>A strategic word-building game where players take turns adding letters without completing a word. Challenge the computer or friends in this clever word duel.</p>",
+  "fullDescription": "<p><strong>Don't End a Word</strong> is a captivating word game where the challenge is to avoid completing a valid English word. Players take turns adding a single letter to either the <strong>front</strong> or <strong>back</strong> of a central word fragment. The player who completes a valid word loses the round.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n\t<li><strong>Multiple Game Modes:</strong> Play <strong>VS Computer</strong> (with adjustable difficulty), challenge a <strong>VS Random</strong> online opponent, or start a match with a <strong>VS Friend</strong>.</li>\n\t<li><strong>Strategic Gameplay:</strong> Plan your moves carefully to avoid completing a word while making it possible for your opponent to lose.</li>\n\t<li><strong>Challenge System:</strong> Use the <strong>CHALLENGE</strong> button if you believe the word fragment is complete or impossible to extend. The game verifies the word and definition to determine the winner.</li>\n\t<li><strong>Hints:</strong> Get a helping hand with the <strong>Hint</strong> feature when stuck.</li>\n\t<li><strong>Flexible Login:</strong> Sign in securely with <strong>Email</strong> or <strong>Mobile</strong>, or jump straight into the game with <strong>Play as Guest</strong>.</li>\n</ul>\n<p>Test your word skills, outsmart your opponents, and enjoy endless rounds of clever wordplay!</p>",
+  "links": [],
   "videos": [
-    "https://www.youtube.com/watch?v=9e8MVpQzD9c"
+    "https://www.youtube.com/watch?v=Fau4tj-VeK8"
   ],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
     "screenshot4.jpg",
-    "screenshot5.jpg",
-    "screenshot6.jpg",
-    "screenshot7.jpg",
-    "screenshot8.jpg",
-    "screenshot9.jpg"
+    "screenshot5.jpg"
   ]
 }
