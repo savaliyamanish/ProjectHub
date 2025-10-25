@@ -5,7 +5,7 @@
   "width": 1,
   "height": 1,
   "accentColor": "#4A0072",
-  "preloadImages": ["icon.jpg"],
+  "preloadImages": [],
   "shortDescription": "<p>A fast-paced color-matching arcade game where your ball changes color and must pass through matching obstacles.</p>",
   "fullDescription": "<p>Color Point is a simple yet challenging arcade game. Guide your color-changing ball upward and pass only through matching-colored shapes. Tap to control your speed and survive as long as possible. Touch color circles to switch colors and keep climbing in this vibrant, endless challenge.</p>",
   "links": [

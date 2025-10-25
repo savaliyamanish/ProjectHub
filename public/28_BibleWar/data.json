@@ -5,7 +5,7 @@
   "width": 1,
   "height": 1,
   "accentColor": "#4A0072",
-  "preloadImages": ["icon.jpg"],
+  "preloadImages": [],
   "shortDescription": "<p>A turn-based Bible trivia game where players spin the wheel, answer questions, and compete in faith-filled battles of knowledge.</p>",
   "fullDescription": "<p><strong>Bible Wars</strong> is a faith-based trivia game that combines fun, learning, and friendly competition. Players take turns answering Bible-themed questions, earning points, and climbing the leaderboard.</p>\n<ul>\n  <li><strong>Turn-Based Play:</strong> Challenge others and play at your own pace—no need to be online at the same time.</li>\n  <li><strong>Spin & Answer:</strong> Spin the wheel to land on different categories from stories to characters.</li>\n  <li><strong>Power-Ups:</strong> Use Double Chance, Miracle, or Change Question to gain an edge.</li>\n  <li><strong>Leaderboards:</strong> Track your progress and see how you rank among other players.</li>\n</ul>",
   "links": [],
