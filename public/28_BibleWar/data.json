@@ -1,26 +1,15 @@
 {
-  "id": "live_math_competitions_and_league",
-  "name": "Live Math Competitions and League",
+  "id": "bible_wars",
+  "name": "Bible Wars",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#0066cc",
-  "preloadImages": [],
-  "shortDescription": "<p>An interactive mental math app with practice modes, live 1v1 competitions, and league events for learners of all ages.</p>",
-  "fullDescription": "<p><strong>Live Math Competitions and League</strong> is a dynamic platform for improving arithmetic skills through practice, competitions, and leagues. Designed for all ages, it combines gamification with interactive math challenges to make learning fun and engaging.</p>\n\n<h2>Game Modes:</h2>\n<ul>\n  <li><strong>Practice Levels:</strong> Challenger, Master, and Grandmaster levels with 10 rounds each. Earn badges—Bronze, Silver, or Gold—by completing levels.</li>\n  <li><strong>1 vs 1 Multiplayer:</strong> Challenge friends, random players, or the in-house bot Mathador. Bet coins to compete head-to-head in real-time.</li>\n  <li><strong>Leagues & Events:</strong> Form teams of 2 in Leagues to earn points and a Ruby Badge, or compete solo in Events with 3 attempts per 24 hours for an Emerald Badge.</li>\n</ul>\n<h2>Topics Covered:</h2>\n<p>Addition, Subtraction, Multiplication, Division, BODMAS, Percentages, Averages, Ratios, Decimals, HCF & LCM, Factors, Exponents, and more",
-  "links": [
-    {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.livemcl.quizgame"
-    },
-    {
-      "name": "Know More",
-      "url": "https://livemcl.com/"
-    }
-  ],
-  "videos": [
-    "https://www.youtube.com/watch?v=9e8MVpQzD9c"
-  ],
+  "accentColor": "#4A0072",
+  "preloadImages": ["icon.jpg"],
+  "shortDescription": "<p>A turn-based Bible trivia game where players spin the wheel, answer questions, and compete in faith-filled battles of knowledge.</p>",
+  "fullDescription": "<p><strong>Bible Wars</strong> is a faith-based trivia game that combines fun, learning, and friendly competition. Players take turns answering Bible-themed questions, earning points, and climbing the leaderboard.</p>\n<ul>\n  <li><strong>Turn-Based Play:</strong> Challenge others and play at your own pace—no need to be online at the same time.</li>\n  <li><strong>Spin & Answer:</strong> Spin the wheel to land on different categories from stories to characters.</li>\n  <li><strong>Power-Ups:</strong> Use Double Chance, Miracle, or Change Question to gain an edge.</li>\n  <li><strong>Leaderboards:</strong> Track your progress and see how you rank among other players.</li>\n</ul>",
+  "links": [],
+  "videos": [],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
@@ -30,6 +19,15 @@
     "screenshot6.jpg",
     "screenshot7.jpg",
     "screenshot8.jpg",
-    "screenshot9.jpg"
+    "screenshot9.jpg",
+    "screenshot10.jpg",
+    "screenshot11.jpg",
+    "screenshot12.jpg",
+    "screenshot13.jpg",
+    "screenshot14.jpg",
+    "screenshot15.jpg",
+    "screenshot16.jpg",
+    "screenshot17.jpg",
+    "screenshot18.jpg"
   ]
 }
