@@ -1,12 +1,12 @@
 {
   "id": "hunger_feed",
   "name": "Hunger Feed",
-  "iconUrl": "icon.jpg",
+  "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
   "accentColor": "#d0325d",
   "preloadImages": [
-    "icon.jpg"
+    "icon.mp4"
   ],
   "shortDescription": "<p>A fast-paced match-3 puzzle game where you feed a hungry sumo wrestler by matching delicious food tiles to reach the target weight before time runs out!</p>",
   "fullDescription": "<p><strong>Hunger Feed</strong> is a fun and addictive match-3 puzzle game with a hilarious food theme. Feed the sumo wrestler by matching and clearing tiles of various foods like sushi, donuts, hot dogs, and soda to reach the target weight before time runs out.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Match-3 Gameplay:</strong> Match three or more food tiles to clear the board.</li>\n  <li><strong>Weight Goal Challenge:</strong> Watch the sumo's weight meter rise as you feed him and aim to hit the level's target weight.</li>\n  <li><strong>Power-Ups:</strong> Use kitchen-themed power-ups like spatulas, cleavers, and hourglasses strategically to clear tiles and boost your score.</li>\n  <li><strong>Rewards Wheel:</strong> Spin 'The Hunger Wheel' daily to win power-ups, coins, and other exciting rewards.</li>\n  <li><strong>Humorous Theme:</strong> Enjoy quirky animations and fun food-themed challenges while feeding your sumo.</li>\n</ul>",
