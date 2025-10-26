@@ -1,32 +1,28 @@
 {
-  "id": "statusq",
-  "name": "StatusQ",
+  "id": "basketball_championship",
+  "name": "Basket Ball",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#FF4B2B",
+  "accentColor": "#673AB7",
   "preloadImages": [],
-  "shortDescription": "<p>A creative video editing app that lets you turn your photos and clips into stylish short videos with transitions, effects, and music.</p>",
-  "fullDescription": "<p><strong>StatusQ</strong> is a quick and easy video creation app that helps you transform your photos and videos into professional-looking short clips. Add transitions, filters, and trending music to make eye-catching status videos for WhatsApp, Instagram, or Reels.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Quick Video Maker:</strong> Combine photos and clips with stylish transitions.</li>\n  <li><strong>Music & Effects:</strong> Choose from a wide collection of background tracks and effects.</li>\n  <li><strong>Ready Templates:</strong> Use pre-designed themes for one-tap video creation.</li>\n  <li><strong>Social Sharing:</strong> Export and share videos directly to your favorite platforms.</li>\n</ul>",
+  "shortDescription": "<p>A fast-paced arcade basketball game with multiple modes like Arcade, Time Attack, and Tournament — shoot, score, and chase the leaderboard!</p>",
+  "fullDescription": "<p><strong>Basketball Championship</strong> is an addictive sports arcade where precision and timing decide your victory. Shoot hoops in vibrant 3D courts, earn combo scores, and unlock higher levels as the crowd cheers you on.</p>\n<p>Featuring dynamic effects like flaming shots and score pop-ups ('AMAZING!', 'BREATHTAKING!'), every throw feels rewarding across multiple game modes and difficulty levels.</p>",
   "links": [
     {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.statusq.app"
-    },
-    {
-      "name": "Know More",
-      "url": "https://statusq.app/"
+      "name": "APK Download",
+      "url": "https://drive.google.com/file/d/1wNcbLISvD7e4Kxknk8-aksZtSiSmGczm/view?usp=drive_link"
     }
   ],
-  "videos": [],
+  "videos": [
+    "https://www.youtube.com/watch?v=iDMItm4dCLg"
+  ],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
     "screenshot3.jpg",
     "screenshot4.jpg",
     "screenshot5.jpg",
-    "screenshot6.jpg",
-    "screenshot7.jpg",
-    "screenshot8.jpg"
+    "screenshot6.jpg"
   ]
 }

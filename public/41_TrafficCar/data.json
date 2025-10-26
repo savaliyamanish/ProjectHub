@@ -1,24 +1,20 @@
 {
-  "id": "statusq",
-  "name": "StatusQ",
+  "id": "traffic_car",
+  "name": "Traffic Car",
   "iconUrl": "icon.jpg",
   "width": 1,
   "height": 1,
-  "accentColor": "#FF4B2B",
+  "accentColor": "#FFC107",
   "preloadImages": [],
-  "shortDescription": "<p>A creative video editing app that lets you turn your photos and clips into stylish short videos with transitions, effects, and music.</p>",
-  "fullDescription": "<p><strong>StatusQ</strong> is a quick and easy video creation app that helps you transform your photos and videos into professional-looking short clips. Add transitions, filters, and trending music to make eye-catching status videos for WhatsApp, Instagram, or Reels.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Quick Video Maker:</strong> Combine photos and clips with stylish transitions.</li>\n  <li><strong>Music & Effects:</strong> Choose from a wide collection of background tracks and effects.</li>\n  <li><strong>Ready Templates:</strong> Use pre-designed themes for one-tap video creation.</li>\n  <li><strong>Social Sharing:</strong> Export and share videos directly to your favorite platforms.</li>\n</ul>",
+  "shortDescription": "<p>Traffic Car gives you the first-hand experience to drive through traffic-heavy roads in an addictive, level-based car game. Navigate through challenging traffic, collect coins, and unlock a variety of beautiful cars.</p>",
+  "fullDescription": "<p><strong>Traffic Car</strong> is an exciting and addictive driving game that puts your skills to the test on busy roads. With simple tap-and-hold controls, you'll weave through traffic, avoid obstacles, and collect coins to progress through numerous levels.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n\t<li><strong>Addictive Gameplay:</strong> Simple and intuitive controls make it easy to pick up and play, but challenging to master.</li>\n\t<li><strong>500+ Exciting Levels:</strong> Keep yourself engaged with a vast number of unique levels, each offering new traffic patterns and challenges.</li>\n\t<li><strong>Beautiful Cars to Choose From:</strong> Unlock and drive a wide array of vehicles, from compact cars and monster trucks to sleek sports cars and massive semi-trucks, each with its own unique look.</li>\n\t<li><strong>Coin Collection:</strong> Gather coins during gameplay to purchase new vehicles from the garage.</li>\n\t<li><strong>Progress Tracking:</strong> Monitor your level progress and coin collection throughout the game.</li>\n\t<li><strong>Goal:</strong> The ultimate challenge is to prove that if you can drive here, you can drive anywhere!</li>\n</ul>",
   "links": [
     {
-      "name": "Play Store",
-      "url": "https://play.google.com/store/apps/details?id=com.statusq.app"
-    },
-    {
-      "name": "Know More",
-      "url": "https://statusq.app/"
+      "name": "Download APK",
+      "url": "https://drive.google.com/file/d/1m1Xl5XzgnJVxI54lx_BfGsqdvZNzylR4/view?usp=drive_link"
     }
   ],
-  "videos": [],
+  "videos": ["https://www.youtube.com/watch?v=YKQ4TkTb7yA"],
   "images": [
     "screenshot1.jpg",
     "screenshot2.jpg",
@@ -27,6 +23,7 @@
     "screenshot5.jpg",
     "screenshot6.jpg",
     "screenshot7.jpg",
-    "screenshot8.jpg"
+    "screenshot8.jpg",
+    "screenshot9.jpg"
   ]
 }
