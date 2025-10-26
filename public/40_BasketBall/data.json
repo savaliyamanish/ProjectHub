@@ -1,0 +1,32 @@
+{
+  "id": "statusq",
+  "name": "StatusQ",
+  "iconUrl": "icon.jpg",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#FF4B2B",
+  "preloadImages": [],
+  "shortDescription": "<p>A creative video editing app that lets you turn your photos and clips into stylish short videos with transitions, effects, and music.</p>",
+  "fullDescription": "<p><strong>StatusQ</strong> is a quick and easy video creation app that helps you transform your photos and videos into professional-looking short clips. Add transitions, filters, and trending music to make eye-catching status videos for WhatsApp, Instagram, or Reels.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Quick Video Maker:</strong> Combine photos and clips with stylish transitions.</li>\n  <li><strong>Music & Effects:</strong> Choose from a wide collection of background tracks and effects.</li>\n  <li><strong>Ready Templates:</strong> Use pre-designed themes for one-tap video creation.</li>\n  <li><strong>Social Sharing:</strong> Export and share videos directly to your favorite platforms.</li>\n</ul>",
+  "links": [
+    {
+      "name": "Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.statusq.app"
+    },
+    {
+      "name": "Know More",
+      "url": "https://statusq.app/"
+    }
+  ],
+  "videos": [],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg",
+    "screenshot8.jpg"
+  ]
+}
