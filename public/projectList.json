@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://savaliyamanish.github.io/ProjectHub/",
+    "baseUrl": "/",
     "gameProjects": [
         {
             "id": "1_narqubis",
@@ -7,7 +7,7 @@
         },
         {
             "id": "20_MatchMaster",
-            "override": {}
+            "override": {"role":"whole game development"}
         },
         {
             "id": "3_knifehit",
