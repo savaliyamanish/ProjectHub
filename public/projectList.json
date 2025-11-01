@@ -7,7 +7,7 @@
         },
         {
             "id": "20_MatchMaster",
-            "override": {"role":"whole game development"}
+            "override": {}
         },
         {
             "id": "3_knifehit",
