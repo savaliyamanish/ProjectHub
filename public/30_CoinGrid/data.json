@@ -1,12 +1,12 @@
 {
   "id": "3d_platformer",
   "name": "CoinGrid - 3D Platformer",
-  "iconUrl": "icon.jpg",
+  "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
   "accentColor": "#1976D2",
   "preloadImages": [
-    "icon.jpg"
+    "icon.mp4"
   ],
   "shortDescription": "<p>Jump, run, and explore vibrant 3D worlds in this exciting platformer! Collect Gold Coins and Gems, unlock unique heroes, and climb the global Leaderboard.</p>",
   "fullDescription": "<p>Experience the thrill of 3D Platformer — a fast-paced running and jumping adventure across colorful and challenging environments. Leap across moving and separated platforms like icy floes, wooden logs, and more, while avoiding hazards and racing against time.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n\t<li><strong>Exciting Gameplay:</strong> Jump, dash, and sprint across dynamic platforms in unique worlds such as <strong>Ice Land</strong> and <strong>Deep Wood</strong>.</li>\n\t<li><strong>Collectibles & Rewards:</strong> Gather <strong>Gold Coins</strong> and <strong>Gems</strong> to unlock heroes, power-ups, and other rewards.</li>\n\t<li><strong>Unlockable Heroes:</strong> Play as adorable characters like <strong>Chief</strong> (Penguin), <strong>Doki</strong> (Duck), or <strong>Dumbo</strong> (Sheep), each with unique abilities to boost your performance.</li>\n\t<li><strong>Global Leaderboard:</strong> Compete with players worldwide and show off your skills and Gem score.</li>\n\t<li><strong>In-Game Shop:</strong> Spend Gems in the Shop to buy Gold Coins and upgrade your heroes for better performance.</li>\n</ul>\n<p>Perfect for players of all ages, 3D Platformer combines fun, strategy, and fast-paced action in a visually stunning 3D adventure.</p>",

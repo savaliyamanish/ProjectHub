@@ -1,12 +1,12 @@
 {
   "id": "loaded_shooter",
   "name": "Loaded Shooter",
-  "iconUrl": "icon.jpg",
+  "iconUrl": "icon.mp4",
   "width": 1,
   "height": 1,
   "accentColor": "#8B0000",
   "preloadImages": [
-    "icon.jpg"
+    "icon.mp4"
   ],
   "shortDescription": "<p>A thrilling 2D side-scrolling run-and-gun game where a lone hero battles enemies, armored units, and massive bosses.</p>",
   "fullDescription": "<p><strong>Loaded Shooter</strong> is an action-packed 2D side-scrolling run-and-gun game. Take control of a heavily armed hero and fight through waves of enemies across war-torn streets, industrial bases, and military installations.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n  <li><strong>Classic Arcade Action:</strong> Enjoy fast-paced, responsive run-and-gun gameplay inspired by arcade classics.</li>\n  <li><strong>Diverse Combat:</strong> Face foot soldiers, heavily armored units, and vehicles like trucks, helicopters, and tanks.</li>\n  <li><strong>Epic Boss Battles:</strong> Challenge colossal bosses, from attack helicopters to jet fighters, each with unique attack patterns.</li>\n  <li><strong>Score & Upgrade System:</strong> Collect coins and resources to upgrade your weapons and improve your score performance.</li>\n  <li><strong>Immersive Environments:</strong> Explore diverse zones, including urban streets, industrial complexes, and fortified military bases.</li>\n</ul>",
