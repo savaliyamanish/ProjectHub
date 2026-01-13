@@ -8,6 +8,10 @@
         {
             "id": "20_MatchMaster",
             "override": {}
+        }, 
+		{
+            "id": "42_arrowEscape",
+            "override": {}
         },
         {
             "id": "3_knifehit",
