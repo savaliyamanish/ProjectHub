@@ -8,8 +8,8 @@
         {
             "id": "20_MatchMaster",
             "override": {}
-        }, 
-		{
+        },
+        {
             "id": "42_arrowEscape",
             "override": {}
         },
@@ -88,11 +88,11 @@
         {
             "id": "40_BasketBall",
             "override": {}
-        },  
+        },
         {
             "id": "41_TrafficCar",
             "override": {}
-        },     
+        },
         {
             "id": "18_LoadedRunner",
             "override": {}
@@ -147,6 +147,18 @@
         },
         {
             "id": "17_kathmandu",
+            "override": {}
+        },
+        {
+            "id": "43_DrawMissingPart",
+            "override": {}
+        },
+        {
+            "id": "44_JigsawJourneySolitaire",
+            "override": {}
+        },
+        {
+            "id": "45_HexaPathFill",
             "override": {}
         }
     ],

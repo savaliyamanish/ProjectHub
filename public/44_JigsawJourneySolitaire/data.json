@@ -1,0 +1,35 @@
+{
+  "id": "jigsaw_journey_solitaire",
+  "name": "Jigsaw Journey Solitaire",
+  "iconUrl": "icon.png",
+  "width": 1,
+  "height": 1,
+  "accentColor": "#3fa9f5",
+  "preloadImages": [
+    "icon.png"
+  ],
+  "shortDescription": "<p>Welcome to Jigsaw Journey Solitaire, a relaxing puzzle experience that combines the joy of classic jigsaw puzzles with a peaceful journey through beautiful worlds.</p>",
+  "fullDescription": "<p>Solve stunning puzzles, unlock new locations, and enjoy a calming gameplay experience designed for puzzle lovers of all ages.</p>\n\n<p><strong>🧩 Features</strong></p>\n<ul>\n  <li>Hundreds of beautiful jigsaw puzzles</li>\n  <li>Relaxing and stress-free gameplay</li>\n  <li>Unlock new scenic locations as you progress</li>\n  <li>Smooth and easy drag-and-drop controls</li>\n  <li>Perfect for all skill levels</li>\n  <li>Play anytime, anywhere</li>\n</ul>\n\n<p><strong>🌍 Explore Amazing Places</strong></p>\n<p>Travel through different environments as you complete puzzles. From peaceful landscapes to vibrant cities, every puzzle brings a new journey.</p>\n\n<p><strong>🧠 Train Your Brain</strong></p>\n<p>Improve your focus, memory, and problem-solving skills while enjoying a relaxing puzzle adventure.</p>\n\n<p>Whether you want to relax after a long day or challenge your mind with fun puzzles, Jigsaw Journey Solitaire is the perfect game for you.</p>\n\n<p>Start your puzzle adventure today!</p>",
+  "links": [
+    {
+      "name": "Play Now (WebGL)",
+      "url": "https://www.codester.com/items/preview/63274/jigsaw-solitaire-game-template-unity"
+    },
+    {
+      "name": "Download APK",
+      "url": "https://play.google.com/store/apps/details?id=com.vayuputra.jigsawjourney"
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=8v6i_PH359Y"
+  ],
+  "images": [
+    "screenshot1.jpg",
+    "screenshot2.jpg",
+    "screenshot3.jpg",
+    "screenshot4.jpg",
+    "screenshot5.jpg",
+    "screenshot6.jpg",
+    "screenshot7.jpg"
+  ]
+}
